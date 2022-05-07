@@ -2,7 +2,7 @@
 <h3 color="grey"><em>Examining how 1844 could be the Second Coming, Cleansing of the Heavenly Sanctuary or a Nonevent</em></h3>
 
 
-In Douglas Adams’ popular sci-fi novel titled The Hitchhiker's Guide to the Galaxy, a group of highly intelligent beings developed a supercomputer named Deep Thought, in order to determine the ***Answer to the Ultimate Question of Life, the Universe and Everything***. In the story, it takes Deep Thought 7 ½ million years to compute the answer which just happens to be a seemingly random number, **42**. If only the answer to all the questions about life is this simple and can be calculated by a computer, it would certainly solve a lot of our problems.
+In Douglas Adams’ popular sci-fi novel titled The Hitchhiker's Guide to the Galaxy, a group of highly intelligent beings developed a supercomputer named Deep Thought, in order to determine the ***Answer to the Ultimate Question of Life, the Universe and Everything***. In the story, it takes Deep Thought 7 ½ million years to compute the answer which just happens to be a seemingly random number, ***42***. If only the answer to all the questions about life is this simple and can be calculated by a computer, it would certainly solve a lot of our problems.
 
 
 <p align="center">
@@ -73,9 +73,9 @@ Throughout history, many people have tried, and failed to predict the exact day 
    <img src="https://user-images.githubusercontent.com/104978083/167250477-23971506-c392-423f-9dfa-9d429132fb1a.jpeg" width="200" height="249" >  
 </p>
 
-<p align="justify">
-Harold Camping is the one that was fairly recent and has caught a lot of media attention. Harold Camping, through his group Family Radio,  predicted that the end of the world would occur on May 21, 2011 and when it didn’t happen, changed the date to October 21, 2011. Many of his believers donated money, amounting to millions of dollars. Others sold or gave away their properties believing that they will no longer need it but unfortunately, there were also some tragic cases of people killing themselves or their loved ones because of extreme fear or panic as the date drew near. Harold Camping himself died two years later in 2013. Meanwhile, Family Radio administrators have repented of their date setting and Family Radio is still active to this day, just without the date setting. This is the sad reality when people were deluded into believing erroneous date setting for the Lord’s return. What happened to Harold Camping’s believers are eerily similar (except maybe for the cases of killings) to what happened with William Miller and the Millerite movement. And like the supercomputer Deep Thought who computed the answer to the Ultimate Question of Life, the Universe and Everything, which is 42, we will explore how Miller derived the calculation of the Lord’s return and how he got the result of 1844.
-</p>
+
+Harold Camping is the one that was fairly recent and has caught a lot of media attention. Harold Camping, through his group Family Radio,  predicted that the end of the world would occur on May 21, 2011 and when it didn’t happen, changed the date to October 21, 2011. Many of his believers donated money, amounting to millions of dollars. Others sold or gave away their properties believing that they will no longer need it but unfortunately, there were also some tragic cases of people killing themselves or their loved ones because of extreme fear or panic as the date drew near. Harold Camping himself died two years later in 2013. Meanwhile, Family Radio administrators have repented of their date setting and Family Radio is still active to this day, just without the date setting. This is the sad reality when people were deluded into believing erroneous date setting for the Lord’s return. What happened to Harold Camping’s believers are eerily similar (except maybe for the cases of killings) to what happened with William Miller and the Millerite movement. And like the supercomputer Deep Thought who computed the answer to the ***Ultimate Question of Life, the Universe and Everything***, which is ***42***, we will explore how Miller derived the calculation of the Lord’s return and how he got the result of ***1844***.
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/104978083/167250633-9f235de1-d6f5-4ecb-aaae-0756b1eca9a5.jpeg">
@@ -89,6 +89,8 @@ Harold Camping is the one that was fairly recent and has caught a lot of media a
   <br />
   <em>(1782-1849)</em>
 </p>
+
+William Miller was born on February 15, 1782, in Pittsfield, Massachusetts. He was a veteran in the American revolution and gained the rank of captain. After the war he became a farmer and took up civil duties such as constable, was elected as deputy sheriff and also served as Justice of the peace. Miller was born a Baptist but later converted to Deism. Deists believe in a Creator God but they also believe that after God created everything, He just left them to do whatever they please because He doesn't care. But after Miller experienced the horrors of war and how he was miraculously saved, Miller then came to believe that God was at work in saving him so he turned back to God and back to the Baptist faith and renounced Deism. William Miller was also an active member of the Freemasons until 1831, but he found it incompatible with the Bible so he left the group. His thorough study of the Bible led him to conclude that the Second Coming would be sometime around 1843. Miller based his calculation primarily on Daniel 8:14 ***“And he said unto me, Unto two thousand and three hundred days; then shall the sanctuary be cleansed.”*** This is the commonly known verse on how Miller got to the year 1843, but this understanding came to him much later. Miller has developed his so-called ***“15 proofs”*** to show how he got to the date but we will discuss this briefly in a little bit.
 
 
 
