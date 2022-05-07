@@ -1,5 +1,5 @@
 # 1844 Made Complicated
-<p><em><font size="2em" color="#363434">Examining how 1844 could be the Second Coming, Cleansing of the Heavenly Sanctuary or a Nonevent</font></em></p>
+<p><em><font size="5em" color="#363434">Examining how 1844 could be the Second Coming, Cleansing of the Heavenly Sanctuary or a Nonevent</font></em></p>
 
 
 In Douglas Adams’ popular sci-fi novel titled The Hitchhiker's Guide to the Galaxy, a group of highly intelligent beings developed a supercomputer named Deep Thought, in order to determine the ***Answer to the Ultimate Question of Life, the Universe and Everything***. In the story, it takes Deep Thought 7 ½ million years to compute the answer which just happens to be a seemingly random number, ***42***. If only the answer to all the questions about life is this simple and can be calculated by a computer, it would certainly solve a lot of our problems.
@@ -17,31 +17,31 @@ Good thing Jesus did not leave His followers clueless and left them many signs o
 
 
 <p align="center">
-<strong><em>You will hear of wars and rumors of wars, but see to it that you are not alarmed. Such things must happen, but the end is still to come. Matt. 24:6</strong></em>
+<em>You will hear of wars and rumors of wars, but see to it that you are not alarmed. Such things must happen, but the end is still to come. Matt. 24:6</strong>
 </p>
 
 <p align="center">
-<strong><em>Nation will rise against nation, and kingdom against kingdom. There will be famines and earthquakes in various places. All these are the beginning of birth pains. Matt. 24:7-8</em></strong>
+<em>Nation will rise against nation, and kingdom against kingdom. There will be famines and earthquakes in various places. All these are the beginning of birth pains. Matt. 24:7-8</em>
 </p>
 
 <p align="center">
-<strong><em>There will be signs in the sun, moon and stars. On the earth, nations will be in anguish and perplexity at the roaring and tossing of the sea. People will faint from terror, apprehensive of what is coming on the world, for the heavenly bodies will be shaken. Luke 21:25-26
-  </em></strong>
+<em>There will be signs in the sun, moon and stars. On the earth, nations will be in anguish and perplexity at the roaring and tossing of the sea. People will faint from terror, apprehensive of what is coming on the world, for the heavenly bodies will be shaken. Luke 21:25-26
+  </em>
 </p>
 
 These signs have been visible since the time of the early Christians, and that’s why some people from the time of the apostles began to doubt the second coming of the Lord. 
 
 
 <p align="center">
-<strong><em>They will say, “Where is this ‘coming’ he promised? Ever since our ancestors died, everything goes on as it has since the beginning of creation. 2 Peter 3:4</em></strong>
+<em>They will say, “Where is this ‘coming’ he promised? Ever since our ancestors died, everything goes on as it has since the beginning of creation. 2 Peter 3:4</em>
 </p>
 
 The Second Advent is soon. But from a human perspective, Our *"soon”* may be different from God’s *“soon”*. The apostle Peter writes,
 
 <p align="center">
-  <strong><em>
+<em>
     But do not forget this one thing, dear friends: With the Lord a day is like a thousand years, and a thousand years are like a day. The Lord is not    slow in keeping his promise, as some understand slowness. Instead he is patient with you, not wanting anyone to perish, but everyone to come to repentance. 2 Peter 3:8-9
-    </em></strong>
+  </em>
  </p>
 
 Sadly, some believers abandoned their faith and did not believe anymore that the Lord would return. Others however, with great zeal have been expecting the Lord and went on to predict His exact return, even down to the very day and hour. Had they remembered Jesus’ words, they would not have done this. Jesus said
@@ -67,7 +67,7 @@ Throughout history, many people have tried, and failed to predict the exact day 
 - 1914		Jehovah's Witnesses
 - 2011		Harold Camping
 
-## Harold Camping
+<h3>Harold Camping</h3>
 
 <p align="center">
    <img src="https://user-images.githubusercontent.com/104978083/167250477-23971506-c392-423f-9dfa-9d429132fb1a.jpeg" width="200" height="249" >  
@@ -225,7 +225,61 @@ According to Miller’s interpretation, from the time that this prophecy was giv
 But was Miller correct in his proof? According to him, based from Isaiah 7:8, From the time that the prophecy was given *(742 BC)* to 65 years later *(677 BC)* Manasseh will be carried captive to Babylon and Israel will no longer be a nation, but archaeological records show that in 721 BC, Samaria fell to Assyria and its inhabitants were deported and replaced with other inhabitants. So 742 BC couldn’t have been the starting point of the prophecy in Isaiah 7:8 because in 742 BC, Israel was no longer a nation, when in Isaiah 7:8 says, in 65 years, Ephraim *(which is a part of Israel)* will be too shattered to be a people, meaning at the time the prophecy was given, they were not yet shattered. If 742 BC couldn’t be the starting point of the prophecy, then 677 BC couldn’t be the end point of that prophecy also. Then it means that 677 BC couldn’t be the starting point of 2520 and 2520 is also just a *“magic”* number, calculated by multiplying 7 out of 360. Ok then, let’s get on to the next proof, perhaps it offers more substance.
 
 
+### Miller's Proof 2:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/104978083/167253510-f75a8c78-863e-4a47-9c4a-16931e50481f.png">
+</p>
 
+You may think this formula is the same as the formula from Miller’s first proof. Well, you are correct. The formula is the same but the way it was derived is a bit different. 
+
+***Proof II.*** *It is proved typically by the year of release. See Deut. xv. 1, 2: "At the end of every seventh years thou shalt make a release; and this is the manner of the release; every creditor that lendeth aught unto his neighbour shall release it; he shall not exact of his neighbour or of his brother, because it is called the Lords release." Also Jer. xxxiv. 14: "At the end of seven years let ye go every man his brother a Hebrew, which hath been sold unto thee, and "when he hath served thee six years, thou shalt let him go free from thee; but your fathers hearkened not unto me, neither inclined their ear." We are, by this type, taught that the People of God will be delivered from their servitude and bondage, when they have served their 7 prophetic years. 7 times 360 years is 2520. Beginning with the captivity of Israel and the king of Judah, Manasseh, 677 B. C., must end in A. D. 1843, when the children of God will be released from all bondage and slavery. (See Second Advent. Library, No. 14.)*
+
+In this 2nd proof, Miller used Deuteronomy 25: 1-2:
+
+<p align="center">
+<em>
+At the end of every seven years you must cancel debts. This is how it is to be done: Every creditor shall cancel any loan they have made to a fellow Israelite. They shall not require payment from anyone among their own people, because the Lord’s time for canceling debts has been proclaimed. Deuteronomy 25:1-2.
+    </em>
+</p>
+
+And also Jeremiah 34:14
+
+<p align="center">
+<em>
+Every seventh year each of you must free any fellow Hebrews who have sold themselves to you. After they have served you six years, you must let them go free.’ Your ancestors, however, did not listen to me or pay attention to me. Jeremiah 34:14
+    </em>
+</p>
+
+According to Miller, God’s people will be delivered from bondage after they have served 7 prophetic years. 7 prophetic years multiplied by 360 years is 2520. And not surprisingly, the starting date of that is also 677 BC which, according to Miller is Manasseh’s arrest and captivity of Israel from proof number 1. But we now know how improbable that is, then we also know how valid Miller's 2nd proof is. 
+
+### Miller's Proof 5:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/104978083/167254710-286ba858-95bf-449d-b311-b51713cb6b16.png" width="700" height="205">
+</p>
+
+Now this proof is a bit more complicated than the first two proofs above. In order for Miller’s proof to be plausible, one would need a lot of imagination in order to manipulate the verse to fit the timeline. When I first read about Miller’s proofs, I was mind blown. But we will not go through all 15 proofs, you can just explore them at your own leisure. We’ll pick proof 5 as our last example.
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/104978083/167254870-bd6b585c-2bd6-41a0-afba-0216b5821d06.jpeg" width="600" height="338"><br />
+  <em><strong>Literally my reaction when reading the proofs</strong>
+</p>
+  
+***Proof V.*** )Again we can prove it by the typical jubilee. Levit. xxv. 8­-13: "And thou shalt number seven Sabbaths of years unto thee, seven times seven years; and the space of the seven Sabbaths of years shall be unto thee, forty and nine years. Then shalt thou cause the trumpet of the jubilee to sound, on the tenth day of the seventh month, on the day of atonement shall ye make the trumpet sound throughout all your land. And ye shall hallow the fiftieth year, and proclaim liberty throughout all the land, unto all the inhabitants thereof: it shall all be a jubilee unto you; and ye shall return every, man unto his possession, and ye shall return every man unto his family. A jubilee that fiftieth year be unto you; ye shall not sow, neither reap which groweth of itself in it, nor gather the grapes in it of thy vine undressed. For it is the jubilee; it shall be holy unto you, ye shall eat the increase thereof out of the field. In the year, of this jubilee, ye shall return every man unto his possession." Now, if we can show any rule whereby we can find the antitype, we can tell when the people of God will come into the inheritance of the purchased possession, and the redemption of their bodies, and the trump of jubilee will proclaim liberty, a glorious one, through all the land. In order to do this we must take notice of the order of the Sabbaths. "Seven Sabbaths shall be complete." There are seven kinds of Sabbaths, which all have seven for a given number.
+
+The Jews kept but six Sabbaths; if they had kept the seventh they would have been made perfect without us; but they broke the seventh. Therefore there remains a keeping of the Sabbath to the people of God. The Jewish Sabbaths were:
+
+The 7th day. Exod. xxxi. 15.
+The 50th day. Levit. xxiii. 15, 16.
+The 7th week. Dcut. xvi. 9.
+The 7th month. Levit. xxiii. 24, 25.
+The 7th year. Levit. xxv. 3, 4.
+The 7 times 7 years and 50th Jubilee.
+The 7 times 7 Jubilee and 50th Jubilee will bring us to a complete or perfect Sabbath, —the great Jubilee of Jubilees. Thus 7 times 7, 50 years is 49 times 50 — 2150 years.
+
+It is very evident no year of release or Jubilee was ever kept after the reign of Josiah, the last king of Jerusalem that obeyed the commandments of the Lord, or kept his statutes. This king's reign ended B. C. 607. See 2 Kings 23d chapter, 2 Chron. 35 and 36 chapters, and Jeremiah 22d chapter. After which the Jews never kept, neither could they keep, a year of release, or Jubilee; for neither their kings, their nobles, their people, or their lands could have been redeemed after this. Jer. xliv. 20‑23. Here ended the Jewish Jubilee, they had not kept more than 21 Jubilees, lacking 28 of coming to the great Jubilee.
+
+And now the land was to lay desolate, while the people of God were in their enemies' land. Levit. xxvi. 34. How long is a Jubilee of Jubilees? Ans. 49 times 50 years = 2450 years. When did these years begin? When the Jews ceased the keeping of the Sabbaths and Jubilees, at the close of Josiah's reign, B. C. 607. Take 607 from 2450, it leaves A. D. 1843; when the Jubilee of Jubilees will come. (See Sec. Adv. Lib., No. 14.)*
 
 
 
