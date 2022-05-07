@@ -1,5 +1,5 @@
 # 1844 Made Complicated
-<h3 color="grey"><em>Examining how 1844 could be the Second Coming, Cleansing of the Heavenly Sanctuary or a Nonevent</em></h3>
+<p><em><font size="14" color="#ccc">Examining how 1844 could be the Second Coming, Cleansing of the Heavenly Sanctuary or a Nonevent</font></em></p>
 
 
 In Douglas Adams’ popular sci-fi novel titled The Hitchhiker's Guide to the Galaxy, a group of highly intelligent beings developed a supercomputer named Deep Thought, in order to determine the ***Answer to the Ultimate Question of Life, the Universe and Everything***. In the story, it takes Deep Thought 7 ½ million years to compute the answer which just happens to be a seemingly random number, ***42***. If only the answer to all the questions about life is this simple and can be calculated by a computer, it would certainly solve a lot of our problems.
@@ -93,4 +93,32 @@ Harold Camping is the one that was fairly recent and has caught a lot of media a
 William Miller was born on February 15, 1782, in Pittsfield, Massachusetts. He was a veteran in the American revolution and gained the rank of captain. After the war he became a farmer and took up civil duties such as constable, was elected as deputy sheriff and also served as Justice of the peace. Miller was born a Baptist but later converted to Deism. Deists believe in a Creator God but they also believe that after God created everything, He just left them to do whatever they please because He doesn't care. But after Miller experienced the horrors of war and how he was miraculously saved, Miller then came to believe that God was at work in saving him so he turned back to God and back to the Baptist faith and renounced Deism. William Miller was also an active member of the Freemasons until 1831, but he found it incompatible with the Bible so he left the group. His thorough study of the Bible led him to conclude that the Second Coming would be sometime around 1843. Miller based his calculation primarily on Daniel 8:14 ***“And he said unto me, Unto two thousand and three hundred days; then shall the sanctuary be cleansed.”*** This is the commonly known verse on how Miller got to the year 1843, but this understanding came to him much later. Miller has developed his so-called ***“15 proofs”*** to show how he got to the date but we will discuss this briefly in a little bit.
 
 Miller has no specific date for his prediction but he eventually narrowed down his calculation. According to Miller, *“My principles in brief are, that Jesus Christ will come again to this earth, cleanse, purify, and take possession of the same, with all the saints, sometime between March 21, 1843, and March 21, 1844. <sup>[1]</sup>”* When the dates have passed without the Second Coming, Miller stated publicly, *"I confess my error, and acknowledge my disappointment; yet I still believe that the day of the Lord is near, even at the door. <sup>[2]</sup>"*
+
+But in August of 1844 at a camp-meeting in Exeter, New Hampshire, Samuel Snow <sup>[3]</sup> presented the seventh-month message or ***“true midnight cry”***, which claims that the Lord would return on the *“tenth day of the seventh month”* using the *Jewish Karaite Calendar*, this would correspond to *October 22, 1844*. However, like the previous dates that Miller predicted, this too ended up a failure, which came to be known as ***“The Great Disappointment.”*** 
+
+## The Aftermath of the Great Disappointment
+Because the Lord did not return on October 22, 1844 as the Millerites expected, The believers were publicly mocked and ridiculed, many of them sold all their possessions in anticipation of the Second Coming and have even convinced others to do the same as they wait for the Lord. William Miller wrote to Joshua Himes about his experience after the Great Disappointment
+
+*“Some are tauntingly enquiring, 'Have you not gone up?' Even little children in the streets are shouting continually to passersby, 'Have you a ticket to go up?' The public prints, of the most fashionable and popular kind ... are caricaturing in the most shameful manner of the 'white robes of the saints,' Revelation 6:11, the 'going up,' and the great day of 'burning.' Even the pulpits are desecrated by the repetition of scandalous and false reports concerning the 'ascension robes', and priests are using their powers and pens to fill the catalogue of scoffing in the most scandalous periodicals of the day <sup>[4]</sup>”*
+
+Before October 22, 1844, the Millerites numbered in the thousands. But after the failed date, the Millerite movement splintered. Some abandoned their belief in God totally, while others went back to their previous denominations. The remaining few went on to found their own denomination, among them are the Jehovah’s Witnesses and Seventh-day Adventists. 
+
+Those who remained steadfast to the 1844 doctrine were utterly devastated. Hiram Edson, one of the Millerite followers, who later became one of the pioneers of the Seventh-day Adventist church was recorded as stating, *“Our fondest hopes and expectations were blasted, and such a spirit of weeping came over us as I never experienced before. It seemed that the loss of all earthly friends could have been no comparison. We wept, and wept till the day dawned.<sup>[5]</sup>”*
+
+William Miller, in his personal memoirs also recorded “Were I to live my life over again, with the same evidence that I then had, to be honest with God and man, I should have to do as I have done. I confess my error, and acknowledge my disappointment <sup>[6]</sup>”
+
+What the Millerites, Harold Camping’s Family Radio group, and other end-time date setters  have experienced may be called ***Cognitive Dissonance***. According to Merriam-Webster dictionary cognitive dissonance is defined as *“Psychological conflict resulting from incongruous beliefs and attitudes held simultaneously”*
+
+The term came from the work of American psychologists,  Leon Festinger, Henry Riecken, and Stanley Schachter. Interestingly, in the book that they published titled: ***“When Prophecy Fails: A Social and Psychological Study of a Modern Group That Predicted the Destruction of the World <sup>[7]</sup>”***, the Millerites were included in the example. 
+
+Cognitive dissonance happens when you have a belief or knowledge *(cognition)* that is incompatible *(dissonance)* with another. An example would be,  You know that smoking is bad for your health but at the same time, you feel relaxed and calm when you smoke and it relieves your stress. Resolving this cognitive dissonance is usually by:<sup>[8]</sup> 
+
+- **Rejecting or avoiding conflicting information:** In order to keep their beliefs, they will dismiss or close their minds to any information that is in conflict with their beliefs. This is also known as ***“confirmation bias.”***
+- *Persuading and justifying:* Those who take  this route will align themselves with similar minded people who will agree with them and they may also convince others that they are correct
+- *Reconciling the differences:* This attempts to make the dissonant beliefs compatible and when done in Biblical matters for example,  is what can be called as *“hermeneutical gymnastics”*. A fanciful way of making the Bible agree with one's belief on a certain topic by twisting or manipulating, or taking it out of its context so it would fit that belief.
+
+ 
+
+
+
 
