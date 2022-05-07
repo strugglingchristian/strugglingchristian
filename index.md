@@ -1,7 +1,5 @@
-# 1844 Made Complicated 
 ## Examining how 1844 could be the Second Coming, Cleansing of the Heavenly Sanctuary or a Nonevent
-<br />
-<br />
+
 <p align="justify">
   In Douglas Adams’ popular sci-fi novel titled The Hitchhiker's Guide to the Galaxy, a group of highly intelligent beings developed a supercomputer named Deep Thought, in order to determine the Answer to the Ultimate Question of Life, the Universe and Everything. In the story, it takes Deep Thought 7 ½ million years to compute the answer which just happens to be a seemingly random number, 42. If only the answer to all the questions about life is this simple and can be calculated by a computer, it would certainly solve a lot of our problems.
 </p>
@@ -34,4 +32,9 @@
 <p align="justify">
 These signs have been visible since the time of the early Christians, and that’s why some people from the time of the apostles began to doubt the second coming of the Lord. 
 </p>
+
+<p align="center">
+<em>They will say, “Where is this ‘coming’ he promised? Ever since our ancestors died, everything goes on as it has since the beginning of creation. 2 Peter 3:4</em>
+</p>
+
 
