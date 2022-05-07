@@ -1,5 +1,5 @@
 # 1844 Made Complicated
-<p><em><font size="1.2em" color="#ccc">Examining how 1844 could be the Second Coming, Cleansing of the Heavenly Sanctuary or a Nonevent</font></em></p>
+<p><em><font size="2em" color="#363434">Examining how 1844 could be the Second Coming, Cleansing of the Heavenly Sanctuary or a Nonevent</font></em></p>
 
 
 In Douglas Adams’ popular sci-fi novel titled The Hitchhiker's Guide to the Galaxy, a group of highly intelligent beings developed a supercomputer named Deep Thought, in order to determine the ***Answer to the Ultimate Question of Life, the Universe and Everything***. In the story, it takes Deep Thought 7 ½ million years to compute the answer which just happens to be a seemingly random number, ***42***. If only the answer to all the questions about life is this simple and can be calculated by a computer, it would certainly solve a lot of our problems.
@@ -170,6 +170,63 @@ But if you’re like me and you’re wondering how the number 2520 even came up 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/104978083/167253510-f75a8c78-863e-4a47-9c4a-16931e50481f.png">
 </p>
+
+Long before William Miller came to Daniel 8:14, or the 2300 year prophecy as SDAs call it, he first came up with the 2520 year prophecy. His first proof is as follows:
+
+***Proof I.*** *I prove it by the time given by Moses, in the 26th chapter of Leviticus, that the people of God are to be in bondage to the kingdom's of this world; or in Babylon, literal and mystical; which seven times cannot be understood less than seven times 360 revolutions of earth in its orbit, making 2520 years. I believe this began according to Jeremiah xv. 4, "And I will cause them to be removed into all kingdoms of the earth, because of Manasseh, the son of Hezekiah, king of Judah, for that which he did in Jerusalem," and Isa. vii. 8, "For the head of Syria is Damascus, and the head of Damascus is Resin: and within threescore and five years shall Ephraim be broken, that it be not a people,"— when Manasseh was carried captive to Babylon, and Israel was no more a nation, —see chronology, 2 Chron. xxxiii. 9, "So Manasseh made Judah and the inhabitants of Jerusalem to err, and to do worse than the heathen, whom the Lord had destroyed before the children of Israel,"—the 677th year B. C. Then take 677 out of 2520, leaves A. D. 1843, when the punishment of the people of God will end. (See Miller's Lectures, p. 251.) <sup>[11]</sup>.*
+
+My initial reaction upon reading Miller’s 1st proof is one of bewilderment. How does one even think that by multiplying ***7 by 360 to get 2520 and then turn it to years?***. 
+
+Let’s try to unravel Miller’s logic on how he derived his proof, but before we do that. We need to accept a few assumptions. You do not need to agree with this but in order to understand Miller’s thinking, we have to think like Miller. So let’s get on to it.
+
+**Assumption 1: In prophecy, a day equals to a year.**
+
+**<ins>Proof texts:</ins>**
+1. *For forty years—one year for each of the forty days you explored the land—you will suffer for your sins and know what it is like to have me against you.’ Numbers 14:34*
+2. *“Then lie on your left side and put the sin of the people of Israel upon yourself. You are to bear their sin for the number of days you lie on your side. I have assigned you the same number of days as the years of their sin. So for 390 days you will bear the sin of the people of Israel. “After you have finished this, lie down again, this time on your right side, and bear the sin of the people of Judah. I have assigned you 40 days, a day for each year. Ezekiel 4:5-6*
+3. Seventy weeks are determined For your people and for your holy city, To finish the transgression, To make an end of sins, To make reconciliation for iniquity, To bring in everlasting righteousness, To seal up vision and prophecy, And to anoint the Most Holy. “Know therefore and understand, That from the going forth of the command, To restore and build Jerusalem Until Messiah the Prince, There shall be seven weeks and sixty-two weeks; The street shall be built again, and the wall, Even in troublesome times. “And after the sixty-two weeks Messiah shall be cut off, but not for Himself; And the people of the prince who is to come Shall destroy the city and the sanctuary. The end of it shall be with a flood, And till the end of the war desolations are determined. Then he shall confirm a covenant with many for one week; But in the middle of the week. He shall bring an end to sacrifice and offering. And on the wing of abominations shall be one who makes desolate, Even until the consummation, which is determined, Is poured out on the desolate.” Daniel 9:24-27
+
+For now, we will not be discussing the validity of the day-year principle. For the sake of understanding Miller’s proof, we just have to accept this assumption as valid.
+
+**Assumption 2: Whenever year or “times” are mentioned in prophecy, this always refers to 360 days** *(which can be converted to years if needed)*
+
+Never mind that the ancients were also aware that a year contains more than 360 days, and even the Babylonians who employed a 360 calendar day, needed to add an extra month at irregular intervals to compensate for the missing days. If intercalary days were not added, then the 360 calendar day year would be very left behind. But for Miller’s proof to work, we do not need to take account of this. It’s just always 360 days = 1 year.
+
+Now that we have those 2 assumptions in place, let’s now take a look at Miller’s 1st proof. How did Miller come up with 2520 years again? He got this from Leviticus 26:18-27. Let’s look at verse 18.
+
+<p align="center">
+  <em>
+    “If after all this you will not listen to me, I will punish you for your sins seven times over.” Leviticus 26:18.
+  </em>
+</p>
+
+Miller believed that the people of God had been captured in Babylon *(literal and mystical)* for a period of 2520 years. That is the seven times mentioned in Leviticus 26:18 multiplied by 360 which according to Miller, are the 360 revolutions of the earth in its orbit, and voila, you get 2520, which also according to Miller is equivalent to 2520 years. Ok, so now that Miller has 2520 years, then how did it end up in 1843? Miller believed that a Messianic prophecy which is found in Isaiah 7:14-17 has an initial fulfillment which is the starting date of the 2520 year prophecy.
+
+<p align="center">
+<em>
+    Therefore the Lord himself will give you a sign: The virgin will conceive and give birth to a son, and will call him Immanuel. He will be eating curds and honey when he knows enough to reject the wrong and choose the right, for before the boy knows enough to reject the wrong and choose the right, the land of the two kings you dread will be laid waste. The Lord will bring on you and on your people and on the house of your father a time unlike any since Ephraim broke away from Judah—he will bring the king of Assyria. Isaiah 7:14-17
+    </em>
+</p>
+
+The starting date for this prophecy according to Miller was given in Isaiah 7:8,
+
+<p align="center">
+<em>
+for the head of Aram is Damascus, and the head of Damascus is only Rezin. Within sixty-five years Ephraim will be too shattered to be a people. Isaiah 7:8
+    </em>
+</p>
+
+According to Miller’s interpretation, from the time that this prophecy was given, **65 years** will pass and Ephraim will be too shattered to be a people. Miller believed that this prophecy was given in ***742 BC***, if you subtract 65 years from that, you will get **677 BC**, which Miller believed was when Manasseh was taken captive by the Assyrians. Thus, 677 BC is the starting date of the 2520 year prophecy. Subtract that from 2520 and you get 1843. 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/104978083/167254220-ecaa1987-6fbb-4dbf-9b3e-5d2b7fa85685.png">
+</p>
+
+But was Miller correct in his proof? According to him, based from Isaiah 7:8, From the time that the prophecy was given *(742 BC)* to 65 years later *(677 BC)* Manasseh will be carried captive to Babylon and Israel will no longer be a nation, but archaeological records show that in 721 BC, Samaria fell to Assyria and its inhabitants were deported and replaced with other inhabitants. So 742 BC couldn’t have been the starting point of the prophecy in Isaiah 7:8 because in 742 BC, Israel was no longer a nation, when in Isaiah 7:8 says, in 65 years, Ephraim *(which is a part of Israel)* will be too shattered to be a people, meaning at the time the prophecy was given, they were not yet shattered. If 742 BC couldn’t be the starting point of the prophecy, then 677 BC couldn’t be the end point of that prophecy also. Then it means that 677 BC couldn’t be the starting point of 2520 and 2520 is also just a *“magic”* number, calculated by multiplying 7 out of 360. Ok then, let’s get on to the next proof, perhaps it offers more substance.
+
+
+
+
 
 
 
