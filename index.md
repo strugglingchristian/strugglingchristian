@@ -1,4 +1,4 @@
-<p>
+  <p>
   <font size="8em">1844 Made Complicated</font><br />
   <em><font size="5em" color="#363434">Examining how 1844 could be the Second Coming, Cleansing of the Heavenly Sanctuary or a Nonevent</font></em>
   </p>
@@ -200,7 +200,7 @@ Good thing Jesus did not leave His followers clueless and left them many signs o
   Like I’ve mentioned before, William Miller derived 1844 at a much later date, with the help of Edward Snow and also after 1843 failed. He was focused on the year 1843 as that is what his calculations were pointing to. <u><strong>But Daniel 8:14 wasn’t how he originally got the 1843 date.</strong></u> Daniel 8:14 is just <u><strong>one of many routes</strong></u> in which he got to 1843. Actually he has <strong>15</strong> of them in total. We will just look at some of them, but you may read all 15 of these so-called <strong><em>“proofs”</em></strong> from this <a href="https://m.egwwritings.org/en/book/1656.3780" target="_blank">link</a>.
   </p>
 
-  ## William Miller's 15 Proofs
+  <h2>William Miller's 15 Proofs</h2>
 
   <p align="center">
     <img src="https://user-images.githubusercontent.com/104978083/167253367-38940c04-26ed-4ee5-aab3-17546c8e2be9.jpeg" width="700" height="523"><br />
@@ -209,105 +209,161 @@ Good thing Jesus did not leave His followers clueless and left them many signs o
 
   <br /><br />
   <p>
-  While many are somewhat aware of the <strong>2300-year</strong> prophecy, even among non-SDAs, there are a lot more who are unaware of the **2520-year** prophecy and until recently <em>(at the time of this writing)</em>, I too am one of them. But before Miller found out about 1844, he had his mind set on an earlier year, and that is 1843.
+  While many are somewhat aware of the <strong>2300-year</strong> prophecy, even among non-SDAs, there are a lot more who are unaware of the <strong>2520-year</strong> prophecy and until recently <em>(at the time of this writing)</em>, I too am one of them. But before Miller found out about 1844, he had his mind set on an earlier year, and that is 1843.
 </p>
 
 <p>
   But if you’re like me and you’re wondering how the number 2520 even came up in the Bible, and how it ended up to 1843, then read right on as we examine some of William Miller’s proofs.
 </p>
 
-  ### Miller's Proof 1:
+  <h3>Miller's Proof 1:</h3>
   <p align="center">
     <img src="https://user-images.githubusercontent.com/104978083/167253510-f75a8c78-863e-4a47-9c4a-16931e50481f.png">
   </p>
 
+  <p>
   Long before William Miller came to Daniel 8:14, or the 2300 year prophecy as SDAs call it, he first came up with the 2520 year prophecy. His first proof is as follows:
+  </p>
 
-  ***Proof I.*** *I prove it by the time given by Moses, in the 26th chapter of Leviticus, that the people of God are to be in bondage to the kingdom's of this world; or in Babylon, literal and mystical; which seven times cannot be understood less than seven times 360 revolutions of earth in its orbit, making 2520 years. I believe this began according to Jeremiah xv. 4, "And I will cause them to be removed into all kingdoms of the earth, because of Manasseh, the son of Hezekiah, king of Judah, for that which he did in Jerusalem," and Isa. vii. 8, "For the head of Syria is Damascus, and the head of Damascus is Resin: and within threescore and five years shall Ephraim be broken, that it be not a people,"— when Manasseh was carried captive to Babylon, and Israel was no more a nation, —see chronology, 2 Chron. xxxiii. 9, "So Manasseh made Judah and the inhabitants of Jerusalem to err, and to do worse than the heathen, whom the Lord had destroyed before the children of Israel,"—the 677th year B. C. Then take 677 out of 2520, leaves A. D. 1843, when the punishment of the people of God will end. (See Miller's Lectures, p. 251.) <sup>[11]</sup>.*
+  <p>
+  <em><strong>Proof I.</strong> I prove it by the time given by Moses, in the 26th chapter of Leviticus, that the people of God are to be in bondage to the kingdom's of this world; or in Babylon, literal and mystical; which seven times cannot be understood less than seven times 360 revolutions of earth in its orbit, making 2520 years. I believe this began according to Jeremiah xv. 4, "And I will cause them to be removed into all kingdoms of the earth, because of Manasseh, the son of Hezekiah, king of Judah, for that which he did in Jerusalem," and Isa. vii. 8, "For the head of Syria is Damascus, and the head of Damascus is Resin: and within threescore and five years shall Ephraim be broken, that it be not a people,"— when Manasseh was carried captive to Babylon, and Israel was no more a nation, —see chronology, 2 Chron. xxxiii. 9, "So Manasseh made Judah and the inhabitants of Jerusalem to err, and to do worse than the heathen, whom the Lord had destroyed before the children of Israel,"—the 677th year B. C. Then take 677 out of 2520, leaves A. D. 1843, when the punishment of the people of God will end. (See Miller's Lectures, p. 251.) <sup>[11]</sup>.</em>
+  </p>
 
-  My initial reaction upon reading Miller’s 1st proof is one of bewilderment. How does one even think that by multiplying ***7 by 360 to get 2520 and then turn it to years?***.
+  <p>
+  My initial reaction upon reading Miller’s 1st proof is one of bewilderment. How does one even think that by <strong><em></em>multiplying 7 by 360 to get 2520 and then turn it to years</em></strong> to get the date of the return of the Lord?.
+  </p>
 
+  <p>
   Let’s try to unravel Miller’s logic on how he derived his proof, but before we do that. We need to accept a few assumptions. You do not need to agree with this but in order to understand Miller’s thinking, we have to think like Miller. So let’s get on to it.
+  </p>
 
-  **Assumption 1: In prophecy, a day equals to a year.**
+  <p>
+  <strong>Assumption 1: In prophecy, a day equals to a year.</strong>
+  </p>
 
-  **<ins>Proof texts:</ins>**
-  1. *For forty years—one year for each of the forty days you explored the land—you will suffer for your sins and know what it is like to have me against you.’ Numbers 14:34*
-  2. *“Then lie on your left side and put the sin of the people of Israel upon yourself. You are to bear their sin for the number of days you lie on your side. I have assigned you the same number of days as the years of their sin. So for 390 days you will bear the sin of the people of Israel. “After you have finished this, lie down again, this time on your right side, and bear the sin of the people of Judah. I have assigned you 40 days, a day for each year. Ezekiel 4:5-6*
-  3. Seventy weeks are determined For your people and for your holy city, To finish the transgression, To make an end of sins, To make reconciliation for iniquity, To bring in everlasting righteousness, To seal up vision and prophecy, And to anoint the Most Holy. “Know therefore and understand, That from the going forth of the command, To restore and build Jerusalem Until Messiah the Prince, There shall be seven weeks and sixty-two weeks; The street shall be built again, and the wall, Even in troublesome times. “And after the sixty-two weeks Messiah shall be cut off, but not for Himself; And the people of the prince who is to come Shall destroy the city and the sanctuary. The end of it shall be with a flood, And till the end of the war desolations are determined. Then he shall confirm a covenant with many for one week; But in the middle of the week. He shall bring an end to sacrifice and offering. And on the wing of abominations shall be one who makes desolate, Even until the consummation, which is determined, Is poured out on the desolate.” Daniel 9:24-27
+<strong><u>Proof texts:</u></strong>
+<ol>
+  <li>
+    <em> For forty years—one year for each of the forty days you explored the land—you will suffer for your sins and know what it is like to have me against you.’ Numbers 14:34</em>
+  </li>
+  <li><em>
+     “Then lie on your left side and put the sin of the people of Israel upon yourself. You are to bear their sin for the number of days you lie on your side. I have assigned you the same number of days as the years of their sin. So for 390 days you will bear the sin of the people of Israel. “After you have finished this, lie down again, this time on your right side, and bear the sin of the people of Judah. I have assigned you 40 days, a day for each year. Ezekiel 4:5-6
+  </em>
+  </li>
+  <li><em>
+    Seventy weeks are determined For your people and for your holy city, To finish the transgression, To make an end of sins, To make reconciliation for iniquity, To bring in everlasting righteousness, To seal up vision and prophecy, And to anoint the Most Holy. “Know therefore and understand, That from the going forth of the command, To restore and build Jerusalem Until Messiah the Prince, There shall be seven weeks and sixty-two weeks; The street shall be built again, and the wall, Even in troublesome times. “And after the sixty-two weeks Messiah shall be cut off, but not for Himself; And the people of the prince who is to come Shall destroy the city and the sanctuary. The end of it shall be with a flood, And till the end of the war desolations are determined. Then he shall confirm a covenant with many for one week; But in the middle of the week. He shall bring an end to sacrifice and offering. And on the wing of abominations shall be one who makes desolate, Even until the consummation, which is determined, Is poured out on the desolate.” Daniel 9:24-27</em>
+  </li>
+  </ol>
 
+  <p>
   For now, we will not be discussing the validity of the day-year principle. For the sake of understanding Miller’s proof, we just have to accept this assumption as valid.
+  </p>
 
-  **Assumption 2: Whenever year or “times” are mentioned in prophecy, this always refers to 360 days** *(which can be converted to years if needed)*
+  <p>
+  <strong>Assumption 2: Whenever year or <em>“times”</em> are mentioned in prophecy, this always refers to 360 days</strong> <em>(which can be converted to years if needed)</em>
+  </p>
 
-  Never mind that the ancients were also aware that a year contains more than 360 days, and even the Babylonians who employed a 360 calendar day, needed to add an extra month at irregular intervals to compensate for the missing days. If intercalary days were not added, then the 360 calendar day year would be very left behind. But for Miller’s proof to work, we do not need to take account of this. It’s just always 360 days = 1 year.
+  <p>
+    We all know that a year is equivalent to about 365 and 1/4 days. The ancients were also aware that a year contains more than 360 days. Even the Babylonians who employed a 360 calendar day needed to add an extra month at irregular intervals to compensate for the missing days. If intercalary days were not added, then the 360 day calendar year would have missing days and would not correspond to our current timeline. For example, every 100 years using the 360-day calendar method without intercalation, it would be less 525 days or around 1 1/2 years to the current time. This would make it seem that the 360-day calendar is ahead by 1 1/2 years. Using this 360-day calendar without intercalation would equal a missing 5250 days or 14 years and 3 months compared to the current time. So using this 360-day calendar for 2300 years without intercalation would result in 12,075 days lacking or equivalent to 33 years. This would make it seem that the 360-day calendar is ahead by 33 years if used for a span of 2300 years. But again, <u><strong><em>in order for Miller’s proof to work</em></strong></u>, we do not need to take account of this. Forget reality for now. It’s just always 360 days = 1 year.
+  </p>
 
+  <p>
   Now that we have those 2 assumptions in place, let’s now take a look at Miller’s 1st proof. How did Miller come up with 2520 years again? He got this from Leviticus 26:18-27. Let’s look at verse 18.
+  </p>
 
   <p align="center">
+    <strong>
     <em>
       “If after all this you will not listen to me, I will punish you for your sins seven times over.” Leviticus 26:18.
     </em>
+    </strong>
   </p>
 
-  Miller believed that the people of God had been captured in Babylon *(literal and mystical)* for a period of 2520 years. That is the seven times mentioned in Leviticus 26:18 multiplied by 360 which according to Miller, are the 360 revolutions of the earth in its orbit, and voila, you get 2520, which also according to Miller is equivalent to 2520 years. Ok, so now that Miller has 2520 years, then how did it end up in 1843? Miller believed that a Messianic prophecy which is found in Isaiah 7:14-17 has an initial fulfillment which is the starting date of the 2520 year prophecy.
+  <p>
+  Miller believed that the people of God had been captured in Babylon <em>(literal and mystical)</em> for a period of 2520 years. That is the <em><strong>seven times</strong></em> mentioned in Leviticus 26:18 <em><strong>multiplied by 360</strong></em> which according to Miller, are the <em><strong>360 revolutions of the earth in its orbit</strong></em>, and voila, you get 2520, which also according to Miller is equivalent to 2520 years. Ok, so now that Miller has 2520 years, then how did it end up in 1843? Miller believed that a Messianic prophecy which is found in Isaiah 7:14-17 has an initial fulfillment which is the starting date of the 2520 year prophecy.
+  </p>
 
   <p align="center">
+    <strong>
   <em>
       Therefore the Lord himself will give you a sign: The virgin will conceive and give birth to a son, and will call him Immanuel. He will be eating curds and honey when he knows enough to reject the wrong and choose the right, for before the boy knows enough to reject the wrong and choose the right, the land of the two kings you dread will be laid waste. The Lord will bring on you and on your people and on the house of your father a time unlike any since Ephraim broke away from Judah—he will bring the king of Assyria. Isaiah 7:14-17
       </em>
+      </strong>
   </p>
 
+  <p>
   The starting date for this prophecy according to Miller was given in Isaiah 7:8,
+  </p>
 
   <p align="center">
+  <strong>
   <em>
   for the head of Aram is Damascus, and the head of Damascus is only Rezin. Within sixty-five years Ephraim will be too shattered to be a people. Isaiah 7:8
       </em>
+      </strong>
   </p>
 
-  According to Miller’s interpretation, from the time that this prophecy was given, **65 years** will pass and Ephraim will be too shattered to be a people. Miller believed that this prophecy was given in ***742 BC***, if you subtract 65 years from that, you will get **677 BC**, which Miller believed was when Manasseh was taken captive by the Assyrians. Thus, 677 BC is the starting date of the 2520 year prophecy. Subtract that from 2520 and you get 1843.
+  <p>
+  According to Miller’s interpretation, from the time that this prophecy was given, <strong>65 years</strong> will pass and Ephraim will be too shattered to be a people. Miller believed that this prophecy was given in <strong>742 BC</strong>, if you subtract 65 years from that, you will get <strong>677 BC</strong>, which Miller believed was when Manasseh was taken captive by the Assyrians. Thus, 677 BC is the starting date of the 2520 year prophecy. Subtract that from 2520 and you get 1843.
+  </p>
 
   <p align="center">
     <img src="https://user-images.githubusercontent.com/104978083/167254220-ecaa1987-6fbb-4dbf-9b3e-5d2b7fa85685.png">
   </p>
 
-  But was Miller correct in his proof? According to him, based from Isaiah 7:8, From the time that the prophecy was given *(742 BC)* to 65 years later *(677 BC)* Manasseh will be carried captive to Babylon and Israel will no longer be a nation, but archaeological records show that in 721 BC, Samaria fell to Assyria and its inhabitants were deported and replaced with other inhabitants. So 742 BC couldn’t have been the starting point of the prophecy in Isaiah 7:8 because in 742 BC, Israel was no longer a nation, when in Isaiah 7:8 says, in 65 years, Ephraim *(which is a part of Israel)* will be too shattered to be a people, meaning at the time the prophecy was given, they were not yet shattered. If 742 BC couldn’t be the starting point of the prophecy, then 677 BC couldn’t be the end point of that prophecy also. Then it means that 677 BC couldn’t be the starting point of 2520 and 2520 is also just a *“magic”* number, calculated by multiplying 7 out of 360. Ok then, let’s get on to the next proof, perhaps it offers more substance.
+<p>
+  But was Miller correct in his proof? According to him, based from Isaiah 7:8, From the time that the prophecy was given <strong>(742 BC)</strong> to 65 years later <strong>(677 BC)</strong> Manasseh will be carried captive to Babylon and Israel will no longer be a nation, but archaeological records show that in 721 BC, Samaria fell to Assyria and its inhabitants were deported and replaced with other inhabitants. So 742 BC couldn’t have been the starting point of the prophecy in Isaiah 7:8 because in 742 BC, Israel was no longer a nation, when in Isaiah 7:8 says, in 65 years, Ephraim <em>(which is a part of Israel)</em> will be too shattered to be a people, meaning at the time the prophecy was given, they were not yet shattered. If 742 BC couldn’t be the starting point of the prophecy, then 677 BC couldn’t be the end point of that prophecy also. Then it means that 677 BC couldn’t be the starting point of 2520 and 2520 is also just a <em>“magic”</em> number, calculated by multiplying 7 out of 360. Ok then, let’s get on to the next proof, perhaps it offers more substance.
+  </p>
 
 
-  ### Miller's Proof 2:
+  <h3>Miller's Proof 2:</h3>
   <p align="center">
     <img src="https://user-images.githubusercontent.com/104978083/167253510-f75a8c78-863e-4a47-9c4a-16931e50481f.png">
   </p>
 
-  You may think this formula is the same as the formula from Miller’s first proof. Well, you are correct. The formula is the same but the way it was derived is a bit different.
+  <p>
+  You may think this formula is the same as the formula from Miller’s first proof. Well, you are correct. The formula is the same but the way it was derived is a bit different.</p>
 
-  ***Proof II.*** *It is proved typically by the year of release. See Deut. xv. 1, 2: "At the end of every seventh years thou shalt make a release; and this is the manner of the release; every creditor that lendeth aught unto his neighbour shall release it; he shall not exact of his neighbour or of his brother, because it is called the Lords release." Also Jer. xxxiv. 14: "At the end of seven years let ye go every man his brother a Hebrew, which hath been sold unto thee, and "when he hath served thee six years, thou shalt let him go free from thee; but your fathers hearkened not unto me, neither inclined their ear." We are, by this type, taught that the People of God will be delivered from their servitude and bondage, when they have served their 7 prophetic years. 7 times 360 years is 2520. Beginning with the captivity of Israel and the king of Judah, Manasseh, 677 B. C., must end in A. D. 1843, when the children of God will be released from all bondage and slavery. (See Second Advent. Library, No. 14.)*
+<p>
+  <em><strong>Proof II.</strong> It is proved typically by the year of release. See Deut. xv. 1, 2: "At the end of every seventh years thou shalt make a release; and this is the manner of the release; every creditor that lendeth aught unto his neighbour shall release it; he shall not exact of his neighbour or of his brother, because it is called the Lords release." Also Jer. xxxiv. 14: "At the end of seven years let ye go every man his brother a Hebrew, which hath been sold unto thee, and "when he hath served thee six years, thou shalt let him go free from thee; but your fathers hearkened not unto me, neither inclined their ear." We are, by this type, taught that the People of God will be delivered from their servitude and bondage, when they have served their 7 prophetic years. 7 times 360 years is 2520. Beginning with the captivity of Israel and the king of Judah, Manasseh, 677 B. C., must end in A. D. 1843, when the children of God will be released from all bondage and slavery. (See Second Advent. Library, No. 14.)</em>
+  </p>
 
+<p>
   In this 2nd proof, Miller used Deuteronomy 25: 1-2:
+</p>
 
   <p align="center">
+    <strong>
   <em>
   At the end of every seven years you must cancel debts. This is how it is to be done: Every creditor shall cancel any loan they have made to a fellow Israelite. They shall not require payment from anyone among their own people, because the Lord’s time for canceling debts has been proclaimed. Deuteronomy 25:1-2.
       </em>
+  </strong>
   </p>
 
+<p>
   And also Jeremiah 34:14
+</p>
 
   <p align="center">
+    <strong>
   <em>
   Every seventh year each of you must free any fellow Hebrews who have sold themselves to you. After they have served you six years, you must let them go free.’ Your ancestors, however, did not listen to me or pay attention to me. Jeremiah 34:14
       </em>
+      </strong>
   </p>
 
+  <p>
   According to Miller, God’s people will be delivered from bondage after they have served 7 prophetic years. 7 prophetic years multiplied by 360 years is 2520. And not surprisingly, the starting date of that is also 677 BC which, according to Miller is Manasseh’s arrest and captivity of Israel from proof number 1. But we now know how improbable that is, then we also know how valid Miller's 2nd proof is.
+  </p>
 
-  ### Miller's Proof 5:
+  <h3>Miller's Proof 5:</h3>
   <p align="center">
     <img src="https://user-images.githubusercontent.com/104978083/167254710-286ba858-95bf-449d-b311-b51713cb6b16.png" width="700" height="205">
   </p>
 
+  <p>
   Now this proof is a bit more complicated than the first two proofs above. In order for Miller’s proof to be plausible, one would need a lot of imagination in order to manipulate the verse to fit the timeline. When I first read about Miller’s proofs, I was mind blown. But we will not go through all 15 proofs, you can just explore them at your own leisure. We’ll pick proof 5 as our last example.
+  </p>
 
 
   <p align="center">
@@ -315,18 +371,28 @@ Good thing Jesus did not leave His followers clueless and left them many signs o
     <em><strong>Literally my reaction when reading the proofs</strong>
   </p>
 
-  ***Proof V.*** )Again we can prove it by the typical jubilee. Levit. xxv. 8­-13: "And thou shalt number seven Sabbaths of years unto thee, seven times seven years; and the space of the seven Sabbaths of years shall be unto thee, forty and nine years. Then shalt thou cause the trumpet of the jubilee to sound, on the tenth day of the seventh month, on the day of atonement shall ye make the trumpet sound throughout all your land. And ye shall hallow the fiftieth year, and proclaim liberty throughout all the land, unto all the inhabitants thereof: it shall all be a jubilee unto you; and ye shall return every, man unto his possession, and ye shall return every man unto his family. A jubilee that fiftieth year be unto you; ye shall not sow, neither reap which groweth of itself in it, nor gather the grapes in it of thy vine undressed. For it is the jubilee; it shall be holy unto you, ye shall eat the increase thereof out of the field. In the year, of this jubilee, ye shall return every man unto his possession." Now, if we can show any rule whereby we can find the antitype, we can tell when the people of God will come into the inheritance of the purchased possession, and the redemption of their bodies, and the trump of jubilee will proclaim liberty, a glorious one, through all the land. In order to do this we must take notice of the order of the Sabbaths. "Seven Sabbaths shall be complete." There are seven kinds of Sabbaths, which all have seven for a given number.
+  <p>
+  <em><strong>Proof V.</strong> Again we can prove it by the typical jubilee. Levit. xxv. 8­-13: "And thou shalt number seven Sabbaths of years unto thee, seven times seven years; and the space of the seven Sabbaths of years shall be unto thee, forty and nine years. Then shalt thou cause the trumpet of the jubilee to sound, on the tenth day of the seventh month, on the day of atonement shall ye make the trumpet sound throughout all your land. And ye shall hallow the fiftieth year, and proclaim liberty throughout all the land, unto all the inhabitants thereof: it shall all be a jubilee unto you; and ye shall return every, man unto his possession, and ye shall return every man unto his family. A jubilee that fiftieth year be unto you; ye shall not sow, neither reap which groweth of itself in it, nor gather the grapes in it of thy vine undressed. For it is the jubilee; it shall be holy unto you, ye shall eat the increase thereof out of the field. In the year, of this jubilee, ye shall return every man unto his possession." Now, if we can show any rule whereby we can find the antitype, we can tell when the people of God will come into the inheritance of the purchased possession, and the redemption of their bodies, and the trump of jubilee will proclaim liberty, a glorious one, through all the land. In order to do this we must take notice of the order of the Sabbaths. "Seven Sabbaths shall be complete." There are seven kinds of Sabbaths, which all have seven for a given number.</em></p>
 
+  <p>
+  <em>
   The Jews kept but six Sabbaths; if they had kept the seventh they would have been made perfect without us; but they broke the seventh. Therefore there remains a keeping of the Sabbath to the people of God. The Jewish Sabbaths were:
+  </em>
+  </p>
 
-  The 7th day. Exod. xxxi. 15.
-  The 50th day. Levit. xxiii. 15, 16.
-  The 7th week. Dcut. xvi. 9.
-  The 7th month. Levit. xxiii. 24, 25.
-  The 7th year. Levit. xxv. 3, 4.
-  The 7 times 7 years and 50th Jubilee.
-  The 7 times 7 Jubilee and 50th Jubilee will bring us to a complete or perfect Sabbath, —the great Jubilee of Jubilees. Thus 7 times 7, 50 years is 49 times 50 — 2150 years.
+  <p>
+  <em>
+  The 7th day. Exod. xxxi. 15.<br />
+  The 50th day. Levit. xxiii. 15, 16.<br />
+  The 7th week. Dcut. xvi. 9.<br />
+  The 7th month. Levit. xxiii. 24, 25.<br />
+  The 7th year. Levit. xxv. 3, 4.<br />
+  The 7 times 7 years and 50th Jubilee.<br />
+  The 7 times 7 Jubilee and 50th Jubilee will bring us to a complete or perfect Sabbath, —the great Jubilee of Jubilees. Thus 7 times 7, 50 years is 49 times 50 — 2150 years.<br />
+  </em>
+  </p>
 
   It is very evident no year of release or Jubilee was ever kept after the reign of Josiah, the last king of Jerusalem that obeyed the commandments of the Lord, or kept his statutes. This king's reign ended B. C. 607. See 2 Kings 23d chapter, 2 Chron. 35 and 36 chapters, and Jeremiah 22d chapter. After which the Jews never kept, neither could they keep, a year of release, or Jubilee; for neither their kings, their nobles, their people, or their lands could have been redeemed after this. Jer. xliv. 20‑23. Here ended the Jewish Jubilee, they had not kept more than 21 Jubilees, lacking 28 of coming to the great Jubilee.
 
-  And now the land was to lay desolate, while the people of God were in their enemies' land. Levit. xxvi. 34. How long is a Jubilee of Jubilees? Ans. 49 times 50 years = 2450 years. When did these years begin? When the Jews ceased the keeping of the Sabbaths and Jubilees, at the close of Josiah's reign, B. C. 607. Take 607 from 2450, it leaves A. D. 1843; when the Jubilee of Jubilees will come. (See Sec. Adv. Lib., No. 14.)*
+  And now the land was to lay desolate, while the people of God were in their enemies' land. Levit. xxvi. 34. How long is a Jubilee of Jubilees? Ans. 49 times 50 years = 2450 years. When did these years begin? When the Jews ceased the keeping of the Sabbaths and Jubilees, at the close of Josiah's reign, B. C. 607. Take 607 from 2450, it leaves A. D. 1843; when the Jubilee of Jubilees will come. (See Sec. Adv. Lib., No. 14.)</em>
+  </p>
