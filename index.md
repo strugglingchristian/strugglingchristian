@@ -368,7 +368,7 @@ Good thing Jesus did not leave His followers clueless and left them many signs o
 
   <p align="center">
     <img src="https://user-images.githubusercontent.com/104978083/167254870-bd6b585c-2bd6-41a0-afba-0216b5821d06.jpeg" width="600" height="338"><br />
-    <em><strong>Literally my reaction when reading Miller's proofs</strong>
+  <em><strong>Literally my reaction when reading Miller's proofs</strong></em>
   </p>
 
  <p>
