@@ -368,10 +368,10 @@ Good thing Jesus did not leave His followers clueless and left them many signs o
 
   <p align="center">
     <img src="https://user-images.githubusercontent.com/104978083/167254870-bd6b585c-2bd6-41a0-afba-0216b5821d06.jpeg" width="600" height="338"><br />
-    <em><strong>Literally my reaction when reading the proofs</strong>
+    <em><strong>Literally my reaction when reading Miller's proofs</strong>
   </p>
 
-  <p>
+ <p>
   <em><strong>Proof V.</strong> Again we can prove it by the typical jubilee. Levit. xxv. 8­-13: "And thou shalt number seven Sabbaths of years unto thee, seven times seven years; and the space of the seven Sabbaths of years shall be unto thee, forty and nine years. Then shalt thou cause the trumpet of the jubilee to sound, on the tenth day of the seventh month, on the day of atonement shall ye make the trumpet sound throughout all your land. And ye shall hallow the fiftieth year, and proclaim liberty throughout all the land, unto all the inhabitants thereof: it shall all be a jubilee unto you; and ye shall return every, man unto his possession, and ye shall return every man unto his family. A jubilee that fiftieth year be unto you; ye shall not sow, neither reap which groweth of itself in it, nor gather the grapes in it of thy vine undressed. For it is the jubilee; it shall be holy unto you, ye shall eat the increase thereof out of the field. In the year, of this jubilee, ye shall return every man unto his possession." Now, if we can show any rule whereby we can find the antitype, we can tell when the people of God will come into the inheritance of the purchased possession, and the redemption of their bodies, and the trump of jubilee will proclaim liberty, a glorious one, through all the land. In order to do this we must take notice of the order of the Sabbaths. "Seven Sabbaths shall be complete." There are seven kinds of Sabbaths, which all have seven for a given number.</em></p>
 
   <p>
