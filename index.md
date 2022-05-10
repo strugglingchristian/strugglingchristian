@@ -264,11 +264,31 @@ Good thing Jesus did not leave His followers clueless and left them many signs o
   <p align="justify">
   <strong>Assumption 2: Whenever year or <em>“times”</em> are mentioned in prophecy, this always refers to 360 days</strong> <em>(which can be converted to years if needed)</em>
   </p>
-
   <p align="justify">
-We all know that a year is equivalent to about 365 and 1/4 days. The ancients were also aware that a year contains more than 360 days. Even the Babylonians who employed a 360 calendar day needed to add an extra month at irregular intervals to compensate for the missing days. If intercalary days were not added, then the 360 day calendar year would have missing days and would not correspond to our current timeline. For example, a 360-day calendar year will be 5 less days than a 365-day calendar like the ones we have. But every 4 years, we add 1 day to the month of February to make up for the missing ¼ day yearly. So 4 years in a 360-day calendar (without intercalation) will be 21 days less than our 365-day calendar (which is more accurate). Using the 360-day calendar without intercalation for 100 years, would result in 525  fewer days or around 1 1/2 years to the current time. This would make it seem that the 360-day calendar is ahead by 1 1/2 years. Using this 360-day calendar without intercalation for 1000 years would result in a missing 5250 days or 14 years and 3 months compared to the current time. So using this 360-day calendar for 2300 years without intercalation would result in 12,075 days lacking or equivalent to 33 years. This would make the 360-day calendar ahead by 33 years if used for a span of 2300 years. <strong><u>But again, in order for Miller’s proof to work, we do not need to take account of this</u></strong>. Forget reality for now. It’s just always 360 days = 1 year.
+We all know that a year is equivalent to about 365 and 1/4 days. The ancients were also aware that a year contains more than 360 days. Even the Babylonians who employed a 360 calendar day needed to add an extra month at irregular intervals to compensate for the missing days. If intercalary days were not added, then the 360 day calendar year would have missing days and would not correspond to our current timeline. 
+</p>
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/104978083/167640980-faa93fc3-1485-4bc1-91ab-ede7b2c3096b.png"><br />
+    <strong>360-day calendar vs 365-day calendar </strong>
   </p>
 
+<p align="justify">
+  For example, a 360-day calendar year will be 5 less days than a 365-day calendar like the ones we have. But every 4 years, we add 1 day to the month of February to make up for the missing ¼ day yearly. So 4 years in a 360-day calendar <em>(without intercalation)</em> will be 21 days less than our 365-day calendar <em>(which is more accurate)</em>. 
+</p>
+
+
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/104978083/167642152-aee5bf0a-ffe3-4366-8c1d-7ef6f9eafa72.png"><br />
+    <strong>360-day calendar vs 365-day calendar</strong> <em>(4 years)</em>
+  </p>
+  
+  <p align="justify">
+  Using the 360-day calendar without intercalation for 100 years, would result in 525  fewer days or around 1 1/2 years to the current time. This would make it seem that the 360-day calendar is ahead by 1 1/2 years. Using this 360-day calendar without intercalation for 1000 years would result in a missing 5250 days or 14 years and 3 months compared to the current time. So using this 360-day calendar for 2300 years without intercalation would result in 12,075 days lacking or equivalent to 33 years. This would make the 360-day calendar ahead by 33 years if used for a span of 2300 years. <strong><u>But again, in order for Miller’s proof to work, we do not need to take account of this</u></strong>. Forget reality for now. It’s just always 360 days = 1 year.
+  </p>
+ <p align="center">
+    <img src="https://user-images.githubusercontent.com/104978083/167642823-d1f3708d-1fc5-4dcd-b0e6-53d4fffe362c.png"><br />
+    <strong>360-day calendar vs 365-day calendar</strong> <em>(2300 year comparison)</em>
+  </p>
   <p align="justify">
   Now that we have those 2 assumptions in place, let’s now take a look at Miller’s 1st proof. How did Miller come up with 2520 years again? He got this from Leviticus 26:18-27. Let’s look at verse 18.
   </p>
@@ -398,3 +418,6 @@ We all know that a year is equivalent to about 365 and 1/4 days. The ancients we
 
   And now the land was to lay desolate, while the people of God were in their enemies' land. Levit. xxvi. 34. How long is a Jubilee of Jubilees? Ans. 49 times 50 years = 2450 years. When did these years begin? When the Jews ceased the keeping of the Sabbaths and Jubilees, at the close of Josiah's reign, B. C. 607. Take 607 from 2450, it leaves A. D. 1843; when the Jubilee of Jubilees will come. (See Sec. Adv. Lib., No. 14.)</em>
   </p>
+
+      
+
