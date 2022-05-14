@@ -403,8 +403,7 @@ We all know that a year is equivalent to about 365 and 1/4 days. The ancients we
   </em>
   </p>
 
-  <p align="justify">
-  <em>
+  <p align="justify"><em>
   <ol>  
     <li>The 7th day. Exod. 31:15.</li>
     <li>The 50th day. Lev. 23:15, 16.</li>
@@ -412,10 +411,10 @@ We all know that a year is equivalent to about 365 and 1/4 days. The ancients we
     <li>The 7th month. Lev. 23:24, 25.</li>
     <li>The 7th year. Lev. 23: 3, 4.</li>
     <li>The 7 times 7 years and 50th Jubilee. Lev 25:8-13</li>
-    <li>The 7 times 7 Jubilee and 50th Jubilee will bring us to a complete or perfect Sabbath, —the great Jubilee of Jubilees. Thus 7 times 7, 50 years is 49 times 50 — 2450 years.
- </ol>
+    <li>The 7 times 7 Jubilee and 50th Jubilee will bring us to a complete or perfect Sabbath, —the great Jubilee of Jubilees. Thus 7 times 7, 50 years is 49 times 50 — 2450 years.</li> 
+    </ol>
   </em>
-  </p>
+ </p>
 
 <p align="justify">
   <em>
@@ -482,7 +481,7 @@ The 7 times 7 years and 50th Jubilee: </u></strong>
 </p>
 
 <p align="center"><em><strong>
-  “This is to be a lasting ordinance for you: On the tenth day of the seventh month you must deny yourselves c and not do any work—whether native-born or a foreigner residing among you— because on this day atonement will be made for you, to cleanse you. Then, before the Lord, you will be clean from all your sins. It is a day of sabbath rest, and you must deny yourselves; it is a lasting ordinance.  Lev. 16:29-31</em></strong>
+  “This is to be a lasting ordinance for you: On the tenth day of the seventh month you must deny yourselves c and not do any work—whether native-born or a foreigner residing among you— because on this day atonement will be made for you, to cleanse you. Then, before the Lord, you will be clean from all your sins. It is a day of sabbath rest, and you must deny yourselves; it is a lasting ordinance.  Lev. 16:29-31 </em></strong>
  </p>
  
  <p align="justify">
