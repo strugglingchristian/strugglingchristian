@@ -1,4 +1,5 @@
-  <p>
+# Struggling Christian
+<p>
   <font size="8em">1844 Made Complicated</font><br />
   <em><font size="5em" color="#363434">Examining how 1844 could be the Second Coming, Cleansing of the Heavenly Sanctuary or a Nonevent</font></em>
   </p>
