@@ -476,3 +476,43 @@ The 7 times 7 years and 50th Jubilee: </u></strong>
   </li>
  </ol>
 </p>
+
+<p align="justify">
+  As you can see, Miller conveniently pointed out the pattern of Sabbaths as observed by the Israelites. You will notice that this is arranged in increasing order, starting from the weekly, 50th day, 7th week, 7th month, 7th year and to the culmination which was the Jubilee of Jubilees or 49 times 50 years. But I don’t know if Miller was aware that number 2, which is the 50th day and number 3 which is the 7th week, is talking of the same Sabbath Festival, that is the Festival of Weeks? So this would make his list just 6 Sabbaths instead of 7. And he conveniently left out Yom Kippur or the Day of Atonement which was also observed as a Sabbath. In fact, Jews call this the Sabbath of Sabbaths” and this occurs once a year. 
+</p>
+
+<p align="center"><em><strong>
+  “This is to be a lasting ordinance for you: On the tenth day of the seventh month you must deny yourselves c and not do any work—whether native-born or a foreigner residing among you— because on this day atonement will be made for you, to cleanse you. Then, before the Lord, you will be clean from all your sins. It is a day of sabbath rest, and you must deny yourselves; it is a lasting ordinance.  Lev. 16:29-31</em></strong>
+ </p>
+ 
+ <p align="justify">
+ The only reason I can think of why Miller would leave this out is because it would break his pattern of increasing order in relation to seven. But maybe he should’ve just added this instead of duplicating the festival of weeks, who knows? But it doesn’t matter anyway. Then we come to the 7th in his list of Sabbaths and according to him was not observed by the Israelites, and that is the Jubilee of Jubilees or 49 x 50 = 2450 years. This is not found anywhere in the Bible nor in any way alluded to. How would the Israelite even know that they should multiply the seven times seven by the 50th year? This is possible only with a <s>little bit</s> a lot of imagination. 
+</p>
+
+<p align="justify">
+  As I was reading about Miller’s proofs, I can’t help but think of <strong><em>Apophenia</em></strong>. It is defined in Merriam-Webster dictionary as <strong><em>“the tendency to perceive a connection or meaningful pattern between unrelated or random things (such as objects or ideas)”.</em></strong> In Miller’s quest to discover the date of the Lord’s return, I think that his mind has latched on to the idea that 1843 is the date that the Bible points to. As the saying goes, <em>“All roads lead to Rome”.</em> His proofs point to 1843. He couldn’t see it any other way. 
+  </p>
+  
+  <p align="justify">
+  It’s like when you look at the clouds and see a pattern formed, but since you’ve seen it, you cannot <em>“unsee”</em> it.
+  </p>
+  
+   <p align="center">
+    <img src="https://user-images.githubusercontent.com/104978083/168432395-3ef8dd58-d149-4c1d-ab73-dac92ad9963e.jpeg"><br />
+  <strong>Winnie the Pooh in the clouds</strong>
+  </p>
+  
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/104978083/168432671-c7a9e577-f6a0-4a38-a68f-a0489fcb0bc8.jpeg"><br />
+  <strong>Face in the bark of a tree</strong>
+  </p>
+  
+<p align="justify">
+  This is referred to as <strong><em>“Pareidolia”</em></strong>. Pareidolia is defined as <strong><em>“the tendency to perceive a specific, often meaningful image in a random or ambiguous visual pattern.”</em></strong> Pareidolia is a type of Apophenia, or rather a visual type of apophenia. In Miller’s case, the number 1843 appears constantly in his proofs and has convinced him and others who believed him that the Bible points to this date. Even when the date failed to pass, they reckoned they must’ve just had an error in their calculation. After 1843 came and went, that’s when they realized that they had miscalculated because they failed to take into account that there was no year zero in the calendar. Unlike real numbers in mathematics, if you subtract 1 year from 1 BC, you will get 1 AD instead of 0 AD. So that's what Miller did, he added 1 to 1843 to correct it and that's how he got to 1844.
+</p>
+
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/104978083/168434127-6ca55166-20f7-464c-bb88-e73a06c9645f.png"><br />
+  <strong>No year zero</strong>
+  </p>
+  
