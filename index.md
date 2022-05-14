@@ -477,10 +477,10 @@ The 7 times 7 years and 50th Jubilee: </u></strong>
 </p>
 
 <p align="justify">
-  As you can see, Miller conveniently pointed out the pattern of Sabbaths as observed by the Israelites. You will notice that this is arranged in increasing order, starting from the weekly, 50th day, 7th week, 7th month, 7th year and to the culmination which was the Jubilee of Jubilees or 49 times 50 years. But I don’t know if Miller was aware that number 2, which is the 50th day and number 3 which is the 7th week, is talking of the same Sabbath Festival, that is the Festival of Weeks? So this would make his list just 6 Sabbaths instead of 7. And he conveniently left out Yom Kippur or the Day of Atonement which was also observed as a Sabbath. In fact, Jews call this the Sabbath of Sabbaths” and this occurs once a year. 
+  As you can see, Miller conveniently pointed out the pattern of Sabbaths as observed by the Israelites. You will notice that this is arranged in increasing order, starting from the weekly, 50th day, 7th week, 7th month, 7th year and to the culmination which was the Jubilee of Jubilees or 49 times 50 years. But I don’t know if Miller was aware that number 2, which is the 50th day and number 3 which is the 7th week, is talking of the same Sabbath Festival, that is the Festival of Weeks? So this would make his list just 6 Sabbaths instead of 7. And he conveniently left out Yom Kippur or the Day of Atonement which was also observed as a Sabbath. In fact, Jews call this the <strong><em>"Sabbath of Sabbaths"</em></strong> and this occurs once a year. 
 </p>
 
-<p align="center"><em><strong>
+<p align="center"><strong><em>
   “This is to be a lasting ordinance for you: On the tenth day of the seventh month you must deny yourselves c and not do any work—whether native-born or a foreigner residing among you— because on this day atonement will be made for you, to cleanse you. Then, before the Lord, you will be clean from all your sins. It is a day of sabbath rest, and you must deny yourselves; it is a lasting ordinance.  Lev. 16:29-31 </em></strong>
  </p>
  
