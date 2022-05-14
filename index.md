@@ -278,7 +278,7 @@ We all know that a year is equivalent to about 365 and 1/4 days. The ancients we
 
 
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/104978083/167642152-aee5bf0a-ffe3-4366-8c1d-7ef6f9eafa72.png"><br />
+    <img src="https://user-images.githubusercontent.com/104978083/167642152-aee5bf0a-ffe3-4366-8c1d-7ef6f9eafa72.png" width="624" height="131"><br />
     <strong>360-day calendar vs 365-day calendar</strong> <em>(4 years)</em>
   </p>
   
@@ -286,7 +286,7 @@ We all know that a year is equivalent to about 365 and 1/4 days. The ancients we
   Using the 360-day calendar without intercalation for 100 years, would result in 525  fewer days or around 1 1/2 years to the current time. This would make it seem that the 360-day calendar is ahead by 1 1/2 years. Using this 360-day calendar without intercalation for 1000 years would result in a missing 5250 days or 14 years and 3 months compared to the current time. So using this 360-day calendar for 2300 years without intercalation would result in 12,075 days lacking or equivalent to 33 years. This would make the 360-day calendar ahead by 33 years if used for a span of 2300 years. <strong><u>But again, in order for Miller’s proof to work, we do not need to take account of this</u></strong>. Forget reality for now. It’s just always 360 days = 1 year.
   </p>
  <p align="center">
-    <img src="https://user-images.githubusercontent.com/104978083/167642823-d1f3708d-1fc5-4dcd-b0e6-53d4fffe362c.png"><br />
+    <img src="https://user-images.githubusercontent.com/104978083/167642823-d1f3708d-1fc5-4dcd-b0e6-53d4fffe362c.png" width="624" height="257"><br />
     <strong>360-day calendar vs 365-day calendar</strong> <em>(2300 year comparison)</em>
   </p>
   <p align="justify">
