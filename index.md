@@ -497,12 +497,12 @@ The 7 times 7 years and 50th Jubilee: </u></strong>
   </p>
   
    <p align="center">
-    <img src="https://user-images.githubusercontent.com/104978083/168432395-3ef8dd58-d149-4c1d-ab73-dac92ad9963e.jpeg"><br />
+    <img src="https://user-images.githubusercontent.com/104978083/168432395-3ef8dd58-d149-4c1d-ab73-dac92ad9963e.jpeg" width="600" height="325"><br />
   <strong>Winnie the Pooh in the clouds</strong>
   </p>
   
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/104978083/168432671-c7a9e577-f6a0-4a38-a68f-a0489fcb0bc8.jpeg"><br />
+    <img src="https://user-images.githubusercontent.com/104978083/168432671-c7a9e577-f6a0-4a38-a68f-a0489fcb0bc8.jpeg" width="400" height="493"><br />
   <strong>Face in the bark of a tree</strong>
   </p>
   
@@ -511,7 +511,7 @@ The 7 times 7 years and 50th Jubilee: </u></strong>
 </p>
 
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/104978083/168434127-6ca55166-20f7-464c-bb88-e73a06c9645f.png"><br />
+    <img src="https://user-images.githubusercontent.com/104978083/168434127-6ca55166-20f7-464c-bb88-e73a06c9645f.png" width="500" height="203"><br />
   <strong>No year zero</strong>
   </p>
   
