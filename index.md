@@ -1,4 +1,4 @@
-# Struggling Christian
+
 <p>
   <font size="8em">1844 Made Complicated</font><br />
   <em><font size="5em" color="#363434">Examining how 1844 could be the Second Coming, Cleansing of the Heavenly Sanctuary or a Nonevent</font></em>
@@ -231,7 +231,7 @@ Good thing Jesus did not leave His followers clueless and left them many signs o
   </p>
 
   <p align="justify">
-  My initial reaction upon reading Miller’s 1st proof is one of bewilderment. How does one even think that by <strong><em></em>multiplying 7 by 360 to get 2520 and then turn it to years</em></strong> to get the date of the return of the Lord?.
+  My initial reaction upon reading Miller’s 1st proof is one of bewilderment. How does one even think that by <strong><em>multiplying 7 by 360 to get 2520 and then turn it to years</em></strong> to get the date of the return of the Lord?.
   </p>
 
   <p align="justify">
