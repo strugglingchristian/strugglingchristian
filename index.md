@@ -405,20 +405,74 @@ We all know that a year is equivalent to about 365 and 1/4 days. The ancients we
 
   <p align="justify">
   <em>
-  The 7th day. Exod. xxxi. 15.<br />
-  The 50th day. Levit. xxiii. 15, 16.<br />
-  The 7th week. Dcut. xvi. 9.<br />
-  The 7th month. Levit. xxiii. 24, 25.<br />
-  The 7th year. Levit. xxv. 3, 4.<br />
-  The 7 times 7 years and 50th Jubilee.<br />
-  The 7 times 7 Jubilee and 50th Jubilee will bring us to a complete or perfect Sabbath, —the great Jubilee of Jubilees. Thus 7 times 7, 50 years is 49 times 50 — 2450 years.<br />
+  <ol>  
+    <li>The 7th day. Exod. 31:15.</li>
+    <li>The 50th day. Lev. 23:15, 16.</li>
+    <li>The 7th week. Deut. 36:9.</li>
+    <li>The 7th month. Lev. 23:24, 25.</li>
+    <li>The 7th year. Lev. 23: 3, 4.</li>
+    <li>The 7 times 7 years and 50th Jubilee. Lev 25:8-13</li>
+    <li>The 7 times 7 Jubilee and 50th Jubilee will bring us to a complete or perfect Sabbath, —the great Jubilee of Jubilees. Thus 7 times 7, 50 years is 49 times 50 — 2450 years.
+ </ol>
   </em>
   </p>
 
+<p align="justify">
+  <em>
   It is very evident no year of release or Jubilee was ever kept after the reign of Josiah, the last king of Jerusalem that obeyed the commandments of the Lord, or kept his statutes. This king's reign ended B. C. 607. See 2 Kings 23d chapter, 2 Chron. 35 and 36 chapters, and Jeremiah 22d chapter. After which the Jews never kept, neither could they keep, a year of release, or Jubilee; for neither their kings, their nobles, their people, or their lands could have been redeemed after this. Jer. xliv. 20‑23. Here ended the Jewish Jubilee, they had not kept more than 21 Jubilees, lacking 28 of coming to the great Jubilee.
+  </em>
+</p>
 
+<p align="justify">
+  <em>
   And now the land was to lay desolate, while the people of God were in their enemies' land. Levit. xxvi. 34. How long is a Jubilee of Jubilees? Ans. 49 times 50 years = 2450 years. When did these years begin? When the Jews ceased the keeping of the Sabbaths and Jubilees, at the close of Josiah's reign, B. C. 607. Take 607 from 2450, it leaves A. D. 1843; when the Jubilee of Jubilees will come. (See Sec. Adv. Lib., No. 14.)</em>
   </p>
 
-      
+<p align="justify">
+  This proof is certainly more complicated than the ones we’ve discussed. But let’s try to understand this.
+</p>
 
+<p align="justify">
+  Here, Miller reasoned that there are 7 Jewish Sabbaths, but the Jews were only able to keep 6 out of the 7. According to Miller, <em>“if they [the Jews] had kept the seventh they would have been made perfect without us; but they broke the seventh.”</em> So if only they were able to keep the all 7 Sabbaths then they would have been made perfect. I don’t know about you but this sounds like salvation by works to me. Anyways, let’s proceed to examine these 7 sabbaths listed by Miller
+</p>
+
+<p align="justify">
+<ol>
+  <li>
+  <strong><u>The 7th day:</u></strong> <em>“For six days work is to be done, but the seventh day is a day of sabbath rest, holy to the LORD. Whoever does any work on the Sabbath day is to be put to death.” Exodus 31:15</em>
+  </li>
+  
+  <li>
+  <strong><u>
+The 50th day:</u></strong> <em> “From the day after the Sabbath, the day you brought the sheaf of the wave offering, count off seven full weeks. Count off fifty days up to the day after the seventh Sabbath, and then present an offering of new grain to the Lord.” Lev 23:15,16</em></li>
+
+  <li>
+  <strong><u>    
+The 7th week:</u></strong> <em> “Count off seven weeks from the time you begin to put the sickle to the standing grain. Then celebrate the Festival of Weeks to the Lord your God by giving a freewill offering in proportion to the blessings the Lord your God has given you.” Deut 16:9 
+    </em>
+ </li>
+  
+<li>
+  <strong><u>
+The 7th month:</u></strong> <em> The Lord said to Moses, “Say to the Israelites: ‘On the first day of the seventh month you are to have a day of sabbath rest, a sacred assembly commemorated with trumpet blasts. Do no regular work, but present a food offering to the Lord” Lev 23:24,25
+  </em>
+</li>
+
+ <li>
+  <strong><u>
+The 7th year:</u></strong> <em>  “For six years sow your fields, and for six years prune your vineyards and gather their crops. But in the seventh year the land is to have a year of sabbath rest, a sabbath to the Lord. Do not sow your fields or prune your vineyards.” Lev 25:3,4
+   </em>
+</li>
+  
+<li>
+  <strong><u>
+The 7 times 7 years and 50th Jubilee: </u></strong>
+  <em> ‘Count off seven sabbath years—seven times seven years—so that the seven sabbath years amount to a period of forty-nine years. Then have the trumpet sounded everywhere on the tenth day of the seventh month; on the Day of Atonement sound the trumpet throughout your land. Consecrate the fiftieth year and proclaim liberty throughout the land to all its inhabitants. It shall be a jubilee for you; each of you is to return to your family property and to your own clan. The fiftieth year shall be a jubilee for you; do not sow and do not reap what grows of itself or harvest the untended vines. For it is a jubilee and is to be holy for you; eat only what is taken directly from the fields. In this Year of Jubilee everyone is to return to their own property. Lev 25:8-13
+  </em>
+ </li>
+  
+  <li>
+    <strong><u>The Jubilee of Jubilees:</u></strong> Interestingly enough, Miller doesn’t provide a verse for this but instead gives a formula <strong><em>“Thus 7 times 7, 50 years is 49 times 50 — 2450 years.”</em></strong>
+  </li>
+ </ol>
+</p>
