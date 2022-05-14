@@ -411,7 +411,7 @@ We all know that a year is equivalent to about 365 and 1/4 days. The ancients we
   The 7th month. Levit. xxiii. 24, 25.<br />
   The 7th year. Levit. xxv. 3, 4.<br />
   The 7 times 7 years and 50th Jubilee.<br />
-  The 7 times 7 Jubilee and 50th Jubilee will bring us to a complete or perfect Sabbath, —the great Jubilee of Jubilees. Thus 7 times 7, 50 years is 49 times 50 — 2150 years.<br />
+  The 7 times 7 Jubilee and 50th Jubilee will bring us to a complete or perfect Sabbath, —the great Jubilee of Jubilees. Thus 7 times 7, 50 years is 49 times 50 — 2450 years.<br />
   </em>
   </p>
 
