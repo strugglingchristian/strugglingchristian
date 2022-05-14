@@ -485,7 +485,10 @@ The 7 times 7 years and 50th Jubilee: </u></strong>
  </p>
  
  <p align="justify">
- The only reason I can think of why Miller would leave this out is because it would break his pattern of increasing order in relation to seven. But maybe he should’ve just added this instead of duplicating the festival of weeks, who knows? But it doesn’t matter anyway. Then we come to the 7th in his list of Sabbaths and according to him was not observed by the Israelites, and that is the Jubilee of Jubilees or 49 x 50 = 2450 years. This is not found anywhere in the Bible nor in any way alluded to. How would the Israelite even know that they should multiply the seven times seven by the 50th year? This is possible only with a <s>little bit</s> a lot of imagination. 
+ The only reason I can think of why Miller would leave this out is because it would break his pattern of increasing order in relation to seven. But maybe he should’ve just added this instead of duplicating the festival of weeks, who knows? But it doesn’t matter anyway because this reasoning is faulty to begin with. </p>
+  
+<p align="justify">  
+ Then we come to the 7th in his list of Sabbaths which according to him was not observed by the Israelites, and that is the Jubilee of Jubilees or 49 x 50 = 2450 years. This is not found anywhere in the Bible nor in any way alluded to. How would the Israelite even know that they should multiply the seven times seven by the 50th year? This is possible only with a <s>little bit</s> a lot of imagination. 
 </p>
 
 <p align="justify">
