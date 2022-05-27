@@ -25,12 +25,12 @@ Good thing Jesus did not leave His followers clueless and left them many signs o
 </p>
 
   <p align="center">
-  <strong><em>Nation will rise against nation, and kingdom against kingdom. There will be famines and earthquakes in various places. All these are the beginning of birth pains. Matt. 24:7-8</em></strong>
+  <em>Nation will rise against nation, and kingdom against kingdom. There will be famines and earthquakes in various places. All these are the beginning of birth pains. Matt. 24:7-8</em>
   </p>
 
   <p align="center">
-  <strong><em>There will be signs in the sun, moon and stars. On the earth, nations will be in anguish and perplexity at the roaring and tossing of the sea. People will faint from terror, apprehensive of what is coming on the world, for the heavenly bodies will be shaken. Luke 21:25-26
-    </em></strong>
+  <em>There will be signs in the sun, moon and stars. On the earth, nations will be in anguish and perplexity at the roaring and tossing of the sea. People will faint from terror, apprehensive of what is coming on the world, for the heavenly bodies will be shaken. Luke 21:25-26
+    </em>
   </p>
 
   <p align="justify">
@@ -38,17 +38,15 @@ Good thing Jesus did not leave His followers clueless and left them many signs o
 </p>
 
   <p align="center">
-  <strong><em>They will say, “Where is this ‘coming’ he promised? Ever since our ancestors died, everything goes on as it has since the beginning of creation. 2 Peter 3:4</em></strong>
+  <em>They will say, “Where is this ‘coming’ he promised? Ever since our ancestors died, everything goes on as it has since the beginning of creation. 2 Peter 3:4</em>
   </p>
 <p align="justify">
   The Second Advent is soon. But from a human perspective, Our <em>"soon”</em> may be different from God’s <em>“soon”</em>. The apostle Peter writes,
 </p>
   <p align="center">
-  <strong>
   <em>
       But do not forget this one thing, dear friends: With the Lord a day is like a thousand years, and a thousand years are like a day. The Lord is not    slow in keeping his promise, as some understand slowness. Instead he is patient with you, not wanting anyone to perish, but everyone to come to repentance. 2 Peter 3:8-9
     </em>
-  </strong>
    </p>
 
   <p align="justify">
@@ -56,17 +54,15 @@ Good thing Jesus did not leave His followers clueless and left them many signs o
   </p>
 
   <p align="center">
-    <strong>
     <em>
       But about that day or hour no one knows, not even the angels in heaven, nor the Son, but only the Father. Matt 24:36
     </em>
-    </strong>
   </p>
   <p align="center">
-    <strong><em>
+<em>
       Now, brothers and sisters, about times and dates we do not need to write to you, for you know very well that the day of the Lord will come like a thief in the night.
   1st Thess. 5:1-2
-      </em></strong>
+      </em>
   </p>
 
   <p align="justify">
@@ -307,11 +303,9 @@ We all know that a year is equivalent to about 365 and 1/4 days. The ancients we
   </p>
 
   <p align="center">
-    <strong>
   <em>
       Therefore the Lord himself will give you a sign: The virgin will conceive and give birth to a son, and will call him Immanuel. He will be eating curds and honey when he knows enough to reject the wrong and choose the right, for before the boy knows enough to reject the wrong and choose the right, the land of the two kings you dread will be laid waste. The Lord will bring on you and on your people and on the house of your father a time unlike any since Ephraim broke away from Judah—he will bring the king of Assyria. Isaiah 7:14-17
       </em>
-      </strong>
   </p>
 
   <p align="justify">
@@ -319,11 +313,9 @@ We all know that a year is equivalent to about 365 and 1/4 days. The ancients we
   </p>
 
   <p align="center">
-  <strong>
   <em>
   for the head of Aram is Damascus, and the head of Damascus is only Rezin. Within sixty-five years Ephraim will be too shattered to be a people. Isaiah 7:8
       </em>
-      </strong>
   </p>
 
   <p align="justify">
@@ -480,8 +472,8 @@ The 7 times 7 years and 50th Jubilee: </u></strong>
   As you can see, Miller conveniently pointed out the pattern of Sabbaths as observed by the Israelites. You will notice that this is arranged in increasing order, starting from the weekly, 50th day, 7th week, 7th month, 7th year and to the culmination which was the Jubilee of Jubilees or 49 times 50 years. But I don’t know if Miller was aware that number 2, which is the 50th day and number 3 which is the 7th week, is talking of the same Sabbath Festival, that is the Festival of Weeks? So this would make his list just 6 Sabbaths instead of 7. And he conveniently left out Yom Kippur or the Day of Atonement which was also observed as a Sabbath. In fact, Jews call this the <strong><em>"Sabbath of Sabbaths"</em></strong> and this occurs once a year. 
 </p>
 
-<p align="center"><strong><em>
-  “This is to be a lasting ordinance for you: On the tenth day of the seventh month you must deny yourselves c and not do any work—whether native-born or a foreigner residing among you— because on this day atonement will be made for you, to cleanse you. Then, before the Lord, you will be clean from all your sins. It is a day of sabbath rest, and you must deny yourselves; it is a lasting ordinance.  Lev. 16:29-31 </em></strong>
+<p align="center"><em>
+  “This is to be a lasting ordinance for you: On the tenth day of the seventh month you must deny yourselves c and not do any work—whether native-born or a foreigner residing among you— because on this day atonement will be made for you, to cleanse you. Then, before the Lord, you will be clean from all your sins. It is a day of sabbath rest, and you must deny yourselves; it is a lasting ordinance.  Lev. 16:29-31 </em>
  </p>
  
  <p align="justify">
@@ -492,7 +484,7 @@ The 7 times 7 years and 50th Jubilee: </u></strong>
 </p>
 
 <p align="justify">
-  As I was reading about Miller’s proofs, I can’t help but think of <strong><em>Apophenia</em></strong>. It is defined in Merriam-Webster dictionary as <strong><em>“the tendency to perceive a connection or meaningful pattern between unrelated or random things (such as objects or ideas)”.</em></strong> In Miller’s quest to discover the date of the Lord’s return, I think that his mind has latched on to the idea that 1843 is the date that the Bible points to. As the saying goes, <em>“All roads lead to Rome”.</em> His proofs point to 1843. He couldn’t see it any other way. 
+  As I was reading about Miller’s proofs, I can’t help but wonder whether Miller has experienced a case of <strong><em>Apophenia</em></strong>. I am not a medical expert by any means but it is defined in Merriam-Webster dictionary as <strong><em>“the tendency to perceive a connection or meaningful pattern between unrelated or random things (such as objects or ideas)”.</em></strong> In Miller’s quest to discover the date of the Lord’s return, I think that his mind has latched on to the idea that 1843 is the date that the Bible points to. As the saying goes, <em>“All roads lead to Rome”.</em> His proofs point to 1843. He couldn’t see it any other way. 
   </p>
   
   <p align="justify">
