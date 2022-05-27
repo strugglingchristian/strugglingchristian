@@ -213,7 +213,7 @@ Good thing Jesus did not leave His followers clueless and left them many signs o
   But if you’re like me and you’re wondering how the number 2520 even came up in the Bible, and how it ended up to 1843, then read right on as we examine some of William Miller’s proofs.
 </p>
 
-  <h3>Miller's Proof 1:</h3>
+  <h3><u>Miller's Proof 1</u></h3>
   <p align="center">
     <img src="https://user-images.githubusercontent.com/104978083/167253510-f75a8c78-863e-4a47-9c4a-16931e50481f.png">
   </p>
@@ -280,7 +280,7 @@ We all know that a year is equivalent to about 365 and 1/4 days. The ancients we
   </p>
   
   <p align="justify">
-  Using the 360-day calendar without intercalation for 100 years, would result in 525  fewer days or around 1 1/2 years to the current time. This would make it seem that the 360-day calendar is ahead by 1 1/2 years. Using this 360-day calendar without intercalation for 1000 years would result in a missing 5250 days or 14 years and 3 months compared to the current time. So using this 360-day calendar for 2300 years without intercalation would result in 12,075 days lacking or equivalent to 33 years. This would make the 360-day calendar ahead by 33 years if used for a span of 2300 years. <strong><u>But again, in order for Miller’s proof to work, we do not need to take account of this</u></strong>. Forget reality for now. It’s just always 360 days = 1 year.
+  Using the 360-day calendar without intercalation for 100 years, would result in 525  fewer days or around 1 1/2 years to the current time. This would make it seem that the 360-day calendar is ahead by 1 1/2 years. Using this 360-day calendar without intercalation for 1000 years would result in a missing 5250 days or 14 years and 3 months compared to the current time. So using this 360-day calendar for 2300 years without intercalation would result in 12,075 days lacking or equivalent to 33 years. This would make the 360-day calendar ahead by 33 years if used for a span of 2300 years. <strong><u>But again, in order for Miller’s proof to work, we do not need to take account of this</u></strong>. Maybe the prophetic year (360-day) is just like the commercial year (also 360 days) in the finance world. But unless the prophetic timelines don't corresponed to reality, using this 360-day calendar wouldn't align with the dates of history. So let's just forget reality for now. It’s just always 360 days = 1 year.
   </p>
  <p align="center">
     <img src="https://user-images.githubusercontent.com/104978083/167642823-d1f3708d-1fc5-4dcd-b0e6-53d4fffe362c.png" width="624" height="257"><br />
@@ -329,7 +329,7 @@ We all know that a year is equivalent to about 365 and 1/4 days. The ancients we
   </p>
 
 
-  <h3>Miller's Proof 2:</h3>
+  <h3><u>Miller's Proof 2</u></h3>
   <p align="center">
     <img src="https://user-images.githubusercontent.com/104978083/167253510-f75a8c78-863e-4a47-9c4a-16931e50481f.png">
   </p>
@@ -365,7 +365,7 @@ We all know that a year is equivalent to about 365 and 1/4 days. The ancients we
   According to Miller, God’s people will be delivered from bondage after they have served 7 prophetic years. 7 prophetic years multiplied by 360 years is 2520. And not surprisingly, the starting date of that is also 677 BC which, according to Miller is Manasseh’s arrest and captivity of Israel from proof number 1. But we now know how improbable that is, then we also know how valid Miller's 2nd proof is.
   </p>
 
-  <h3>Miller's Proof 5:</h3>
+  <h3><u>Miller's Proof 5</u></h3>
   <p align="center">
     <img src="https://user-images.githubusercontent.com/104978083/167254710-286ba858-95bf-449d-b311-b51713cb6b16.png" width="700" height="205">
   </p>
@@ -481,6 +481,15 @@ The 7 times 7 years and 50th Jubilee: </u></strong>
 </p>  
 <p align="justify">
   But according to historical records, <a href="https://www.britannica.com/biography/Josiah" target="_blank">King Josiah</a> reigned from 640-609 BCE. That's about 2 years off from Miller's date, but let's grant him this for now, maybe the timeline was off during Miller's day so let's go with that. So if you subtract 607 from 2450, then you would get 1843 again. And not surprisingly, 607 BC also was the date used by Jehovah's Witnesses when they predicted the end of the world on 1914. But what they believed was 607 BC was year of the destruction of Jerusalem by Babylon and instead of subtracting that from 2450, they subtracted instead from 2520 years <em>(see proof 1)</em> to get to 1914. The Jehovah's Witnesses know better to add 1 year to the date because there is no year 0 in the calendar, which the Millerites at that time haven't thought of. It's not strange that the Seventh-day Adventist and Jehovah's Witnesses would share these same convuluted calculations because they both came out of the Millerite movement. The Adventists stuck with 1844 but now believes that it was the start of Jesus' high priestly ministry in the Most Holy Place in heaven, while the Jehovah's Witnesses went with 1914 but now believes that Jesus began his rule as King of God's Kingdom in 1914. Pretty strange indeed.
+</p>
+
+<p align="justify">
+  Let's now go to the last proof we'll cover but this would be the most important one. 
+</p>
+
+<h3><u>Miller's Proof 8</u></h3>
+<p align="justify">
+  <em><strong>Proof VIII.</strong> I can prove it by the length of the vision which Daniel had (8:1-14) of the ram, he‑goat, and little horn, which Daniel was informed was 2300 days long. Dan. 8:13,14; "Then I heard one saint speaking, and another saint said unto that certain saint which spake, How long shall be the vision concerning the daily sacrifice, and the transgression of desolation, to give both the sanctuary and the host to be trodden under foot? And he said unto me, Unto two thousand and three hundred days; then shall the sanctuary be cleansed." And from which the 70 weeks were cut off, and fulfilled, the year of Christ's death. Dan. 9:20—27. Then 70 weeks be, years cut off from 2300 days, makes these days years; and 490 years fulfillled in A, D. 33, leaves 1810 years to the fulfillment of the vision, which added to 33 makes 1843, when the sanctuary will be cleansed and the people of God justified. (See Miller's Lectures, p. 73.)</em>
 </p>
 
 <p align="justify">
