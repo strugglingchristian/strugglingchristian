@@ -345,7 +345,7 @@ We all know that a year is equivalent to about 365 and 1/4 days. The ancients we
   </p>
 
   <p>
-  You may think this formula is the same as the formula from Miller’s first proof. Well, you are correct. The formula is the same but the way it was derived is a bit different.</p>
+  You may think this equation is the same as the equation from Miller’s first proof. Well, you are correct. The equation is the same but the way it was derived is a bit different.</p>
 
 <p align="justify">
   <em><strong>Proof II.</strong> It is proved typically by the year of release. See Deut. xv. 1, 2: "At the end of every seventh years thou shalt make a release; and this is the manner of the release; every creditor that lendeth aught unto his neighbour shall release it; he shall not exact of his neighbour or of his brother, because it is called the Lords release." Also Jer. xxxiv. 14: "At the end of seven years let ye go every man his brother a Hebrew, which hath been sold unto thee, and "when he hath served thee six years, thou shalt let him go free from thee; but your fathers hearkened not unto me, neither inclined their ear." We are, by this type, taught that the People of God will be delivered from their servitude and bondage, when they have served their 7 prophetic years. 7 times 360 years is 2520. Beginning with the captivity of Israel and the king of Judah, Manasseh, 677 B. C., must end in A. D. 1843, when the children of God will be released from all bondage and slavery. (See Second Advent. Library, No. 14.)</em>
@@ -471,7 +471,7 @@ The 7 times 7 years and 50th Jubilee: </u></strong>
  </li>
   
   <li>
-    <strong><u>The Jubilee of Jubilees:</u></strong> Interestingly enough, Miller doesn’t provide a verse for this but instead gives a formula <strong><em>“Thus 7 times 7, 50 years is 49 times 50 — 2450 years.”</em></strong>
+    <strong><u>The Jubilee of Jubilees:</u></strong> Interestingly enough, Miller doesn’t provide a verse for this but instead gives a computation      <strong><em>“Thus 7 times 7, 50 years is 49 times 50 — 2450 years.”</em></strong>
   </li>
  </ol>
 </p>
