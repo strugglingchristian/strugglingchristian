@@ -129,7 +129,7 @@ Good thing Jesus did not leave His followers clueless and left them many signs o
   </p>
 
   <p align="justify">
-  The term came from the work of American psychologists,  <strong>Leon Festinger, Henry Riecken, and Stanley Schachter</strong>. Interestingly, in the book that they published titled: <strong><em>“When Prophecy Fails: A Social and Psychological Study of a Modern Group That Predicted the Destruction of the World <sup>[7]</sup>”</em></strong>, the Millerites were included in the example.
+  The term came from the work of American psychologists,  <strong>Leon Festinger, Henry Riecken, and Stanley Schachter</strong>. Interestingly, in the book that they published titled: <strong><em>“When Prophecy Fails: A Social and Psychological Study of a Modern Group That Predicted the Destruction of the World <sup>[7]</sup>”</em></strong>, the Millerites were included in the examples.
   </p>
 
   <p align="justify">
@@ -160,7 +160,7 @@ Good thing Jesus did not leave His followers clueless and left them many signs o
   </p>
 
   <p align="justify">
-  This vision gave their group new hope that what Miller taught was correct. The date was correct but the event was wrong. <strong><em>Instead of the earth being cleansed and Christ returning, it was the Heavenly Sanctuary that was being cleansed and Christ entering the Most Holy Place for the first time</em></strong> We will take a closer look if this was the case or perhaps this could be Hiram Edson's way of reconciling the cognitive dissonance that they had just experienced?
+  This vision gave their group new hope that what Miller taught was correct. They had renewed vigor. They were given the right understanding. Miller's date was correct but they got the event wrong. <strong><em>Instead of the earth being cleansed and Christ returning, it was the Heavenly Sanctuary that was being cleansed and Christ entering the Most Holy Place for the first time</em></strong>. We will take a closer look if this was indeed the case or perhaps this could be Hiram Edson's way of reconciling the cognitive dissonance that they had just experienced?
 </p>
 
   <h2>Evolution of the 1844 doctrine</h2>
