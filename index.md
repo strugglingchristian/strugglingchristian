@@ -404,13 +404,13 @@ We all know that a year is equivalent to about 365 and 1/4 days. The ancients we
 
 <p align="justify">
   <em>
-  It is very evident no year of release or Jubilee was ever kept after the reign of Josiah, the last king of Jerusalem that obeyed the commandments of the Lord, or kept his statutes. This king's reign ended B. C. 607. See 2 Kings 23d chapter, 2 Chron. 35 and 36 chapters, and Jeremiah 22d chapter. After which the Jews never kept, neither could they keep, a year of release, or Jubilee; for neither their kings, their nobles, their people, or their lands could have been redeemed after this. Jer. xliv. 20‑23. Here ended the Jewish Jubilee, they had not kept more than 21 Jubilees, lacking 28 of coming to the great Jubilee.
+  It is very evident no year of release or Jubilee was ever kept after the reign of Josiah, the last king of Jerusalem that obeyed the commandments of the Lord, or kept his statutes. This king's reign ended B. C. 607. See 2 Kings 23d chapter, 2 Chron. 35 and 36 chapters, and Jeremiah 22d chapter. After which the Jews never kept, neither could they keep, a year of release, or Jubilee; for neither their kings, their nobles, their people, or their lands could have been redeemed after this. Jer. 44:20‑23. Here ended the Jewish Jubilee, they had not kept more than 21 Jubilees, lacking 28 of coming to the great Jubilee.
   </em>
 </p>
 
 <p align="justify">
   <em>
-  And now the land was to lay desolate, while the people of God were in their enemies' land. Levit. xxvi. 34. How long is a Jubilee of Jubilees? Ans. 49 times 50 years = 2450 years. When did these years begin? When the Jews ceased the keeping of the Sabbaths and Jubilees, at the close of Josiah's reign, B. C. 607. Take 607 from 2450, it leaves A. D. 1843; when the Jubilee of Jubilees will come. (See Sec. Adv. Lib., No. 14.)</em>
+  And now the land was to lay desolate, while the people of God were in their enemies' land. Levit. 26:34. How long is a Jubilee of Jubilees? Ans. 49 times 50 years = 2450 years. When did these years begin? When the Jews ceased the keeping of the Sabbaths and Jubilees, at the close of Josiah's reign, B. C. 607. Take 607 from 2450, it leaves A. D. 1843; when the Jubilee of Jubilees will come. (See Sec. Adv. Lib., No. 14.)</em>
   </p>
 
 <p align="justify">
@@ -475,6 +475,12 @@ The 7 times 7 years and 50th Jubilee: </u></strong>
   
 <p align="justify">  
  Then we come to the 7th in his list of Sabbaths which according to him was not observed by the Israelites, and that is the Jubilee of Jubilees or 49 x 50 = 2450 years. This is not found anywhere in the Bible nor in any way alluded to. How would the Israelite even know that they should multiply the seven times seven by the 50th year? This is possible only with a <s>little bit</s> a lot of imagination. 
+</p>
+<p align="justify">  
+  And as you can see from the equation, this proof has a different starting date, and that is 607 BC. But what is significant in 607 BC? you might ask, Well according to Miller, this is the end of the reign of King Josiah of Judah. After his death, the kingdom of Judah stopped observing the jubilee. Miller believed that the Israelites were only able to observe 21 jubilees, still lacking 28 more in order to complete the 49 jubilees, leading to the 50th. Thus, 7 x 7 jubilees (49) x 50 = 2450.
+</p>  
+<p align="justify">
+  But according to historical records, <a href="https://www.britannica.com/biography/Josiah" target="_blank">King Josiah</a> reigned from 640-609 BCE. That's about 2 years off from Miller's date, but let's grant him this for now, maybe the timeline was off during Miller's day so let's go with that. So if you subtract 607 from 2450, then you would get 1843 again. And not surprisingly, 607 BC also was the date used by Jehovah's Witnesses when they predicted the end of the world on 1914. But what they believed was 607 BC was year of the destruction of Jerusalem by Babylon and instead of subtracting that from 2450, they subtracted instead from 2520 years <em>(see proof 1)</em> to get to 1914. The Jehovah's Witnesses know better to add 1 year to the date because there is no year 0 in the calendar, which the Millerites at that time haven't thought of. It's not strange that the Seventh-day Adventist and Jehovah's Witnesses would share these same convuluted calculations because they both came out of the Millerite movement. The Adventists stuck with 1844 but now believes that it was the start of Jesus' high priestly ministry in the Most Holy Place in heaven, while the Jehovah's Witnesses went with 1914 but now believes that Jesus began his rule as King of God's Kingdom in 1914. Pretty strange indeed.
 </p>
 
 <p align="justify">
