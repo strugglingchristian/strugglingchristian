@@ -21,7 +21,7 @@ Good thing Jesus did not leave His followers clueless and left them many signs o
 </p>
 
 <p align="center">
-<strong><em>You will hear of wars and rumors of wars, but see to it that you are not alarmed. Such things must happen, but the end is still to come. Matt. 24:6</em></strong>
+<em>You will hear of wars and rumors of wars, but see to it that you are not alarmed. Such things must happen, but the end is still to come. Matt. 24:6</em>
 </p>
 
   <p align="center">
@@ -291,11 +291,9 @@ We all know that a year is equivalent to about 365 and 1/4 days. The ancients we
   </p>
 
   <p align="center">
-    <strong>
     <em>
       “If after all this you will not listen to me, I will punish you for your sins seven times over.” Leviticus 26:18.
     </em>
-    </strong>
   </p>
 
   <p align="justify">
@@ -348,11 +346,9 @@ We all know that a year is equivalent to about 365 and 1/4 days. The ancients we
 </p>
 
   <p align="center">
-    <strong>
   <em>
   At the end of every seven years you must cancel debts. This is how it is to be done: Every creditor shall cancel any loan they have made to a fellow Israelite. They shall not require payment from anyone among their own people, because the Lord’s time for canceling debts has been proclaimed. Deuteronomy 25:1-2.
       </em>
-  </strong>
   </p>
 
 <p align="justify">
@@ -360,11 +356,9 @@ We all know that a year is equivalent to about 365 and 1/4 days. The ancients we
 </p>
 
   <p align="center">
-    <strong>
   <em>
   Every seventh year each of you must free any fellow Hebrews who have sold themselves to you. After they have served you six years, you must let them go free.’ Your ancestors, however, did not listen to me or pay attention to me. Jeremiah 34:14
       </em>
-      </strong>
   </p>
 
   <p align="justify">
@@ -484,7 +478,7 @@ The 7 times 7 years and 50th Jubilee: </u></strong>
 </p>
 
 <p align="justify">
-  As I was reading about Miller’s proofs, I can’t help but wonder whether Miller has experienced a case of <strong><em>Apophenia</em></strong>. I am not a medical expert by any means but it is defined in Merriam-Webster dictionary as <strong><em>“the tendency to perceive a connection or meaningful pattern between unrelated or random things (such as objects or ideas)”.</em></strong> In Miller’s quest to discover the date of the Lord’s return, I think that his mind has latched on to the idea that 1843 is the date that the Bible points to. As the saying goes, <em>“All roads lead to Rome”.</em> His proofs point to 1843. He couldn’t see it any other way. 
+  As I was reading about Miller’s proofs, I can’t help but wonder whether Miller has experienced a case of <strong><em>Apophenia</em></strong>. I am not a medical expert by any means but it is defined in Merriam-Webster dictionary as <strong><em>“the tendency to perceive a connection or meaningful pattern between unrelated or random things (such as objects or ideas)”.</em></strong> In Miller’s quest to discover the date of the Lord’s return, I think that his mind must have latched on to the idea that 1843 is the date that the Bible points to. As the saying goes, <em>“All roads lead to Rome”.</em> His proofs point to 1843. He couldn’t see it any other way. 
   </p>
   
   <p align="justify">
