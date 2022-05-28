@@ -488,6 +488,9 @@ The 7 times 7 years and 50th Jubilee: </u></strong>
 </p>
 
 <h3><u>Miller's Proof 8</u></h3>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/104978083/170832362-c3087e49-4b67-4fef-b1d6-cd1844aaea4a.png">
+</p>
 <p align="justify">
   <em><strong>Proof VIII.</strong> I can prove it by the length of the vision which Daniel had (8:1-14) of the ram, he‑goat, and little horn, which Daniel was informed was 2300 days long. Dan. 8:13,14; "Then I heard one saint speaking, and another saint said unto that certain saint which spake, How long shall be the vision concerning the daily sacrifice, and the transgression of desolation, to give both the sanctuary and the host to be trodden under foot? And he said unto me, Unto two thousand and three hundred days; then shall the sanctuary be cleansed." And from which the 70 weeks were cut off, and fulfilled, the year of Christ's death. Dan. 9:20—27. Then 70 weeks be, years cut off from 2300 days, makes these days years; and 490 years fulfillled in A, D. 33, leaves 1810 years to the fulfillment of the vision, which added to 33 makes 1843, when the sanctuary will be cleansed and the people of God justified. (See Miller's Lectures, p. 73.)</em>
 </p>
